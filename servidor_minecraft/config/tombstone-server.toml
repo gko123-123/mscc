@@ -127,7 +127,7 @@
 #For settings related to magic items
 [magic_item]
 	#Always enchant Grave's Key [false/true|default:false]
-	always_enchant_grave_key = false
+	always_enchant_grave_key = true
 	#Prevents to craft Enchanted Grave Key [false/true|default:false]
 	disable_enchanted_grave_key_recipe = false
 	#Scroll duration [1200..120000|default:12000]
@@ -147,7 +147,7 @@
 [decorative_grave]
 	#The cooldown in minutes to pray with the Ankh [1..600|default:120]
 	#Range: 1 ~ 600
-	prayer_cooldown = 120
+	prayer_cooldown = 20
 
 #Allows to disable some magic items
 [allowedMagicItems]

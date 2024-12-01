@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-01 09:26:10 +0000"
+    },
+    "done": true
+  },
   "create:windmill_maxed": {
     "criteria": {
       "0": "2024-12-01 09:05:12 +0000"

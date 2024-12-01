@@ -27495,3 +27495,26 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [01Dec2024 10:37:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to QUETEIMPORTA]
 [01Dec2024 10:37:36.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15520ms or 310 ticks behind
 [01Dec2024 10:38:05.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13991ms or 279 ticks behind
+[01Dec2024 10:38:31.650] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[01Dec2024 10:38:31.787] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[01Dec2024 10:38:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Dread Scuttler, they gave up
+[01Dec2024 10:38:32.883] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[01Dec2024 10:38:41.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20650ms or 413 ticks behind
+[01Dec2024 10:39:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[01Dec2024 10:39:11.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15859ms or 317 ticks behind
+[01Dec2024 10:39:41.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14986ms or 299 ticks behind
+[01Dec2024 10:40:11.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14620ms or 292 ticks behind
+[01Dec2024 10:40:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 65.500000, 94.500000]
+[01Dec2024 10:40:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[01Dec2024 10:40:39.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12727ms or 254 ticks behind
+[01Dec2024 10:40:59.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01Dec2024 10:41:17.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[01Dec2024 10:41:22.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Disconnected
+[01Dec2024 10:41:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[01Dec2024 10:42:32.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Dec2024 10:42:58.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[01Dec2024 10:43:16.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Dec2024 10:43:41.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Dec2024 10:44:45.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Dec2024 10:45:31.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Dec2024 10:47:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Take Aim]

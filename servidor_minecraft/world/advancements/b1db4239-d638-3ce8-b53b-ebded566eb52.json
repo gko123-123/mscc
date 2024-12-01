@@ -599,5 +599,11 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/fulfill_request": {
+    "criteria": {
+      "click_gui_button_fulfill": "2024-12-01 08:25:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

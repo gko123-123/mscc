@@ -267,6 +267,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 04:23:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-01 03:40:15 +0000"
@@ -332,6 +338,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2024-12-01 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-01 04:20:20 +0000"
     },
     "done": true
   },

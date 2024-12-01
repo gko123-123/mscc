@@ -339,6 +339,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-01 04:25:37 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-01 03:31:27 +0000"

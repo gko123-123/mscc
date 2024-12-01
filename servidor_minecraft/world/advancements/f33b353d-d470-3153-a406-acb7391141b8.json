@@ -290,6 +290,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-01 02:36:49 +0000"
@@ -302,6 +308,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-01 02:42:07 +0000",
@@ -310,17 +322,35 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-01 07:12:20 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2024-12-01 06:27:27 +0000"
     },
     "done": true
   },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-01 04:58:11 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
   },
   "tetra:recipes/string": {
     "criteria": {
@@ -333,12 +363,6 @@
       "lifeturnedouttobeacomedy_0": "2024-12-01 05:04:57 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/technology": {
-    "criteria": {
-      "advanced": "2024-12-01 04:42:37 +0000"
-    },
-    "done": false
   },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
@@ -406,6 +430,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
   "estrogen:root": {
     "criteria": {
       "root": "2024-12-01 06:29:35 +0000"
@@ -436,6 +466,13 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000",
+      "flower": "2024-12-01 07:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-01 06:41:30 +0000"
@@ -447,6 +484,18 @@
       "blaze_rod": "2024-12-01 05:33:57 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
@@ -514,6 +563,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-01 02:59:24 +0000"
@@ -525,6 +580,12 @@
       "has_magic_scroll": "2024-12-01 06:38:28 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/chests": {
     "criteria": {

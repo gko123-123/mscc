@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-01 03:09:14 +0000",
       "minecraft:beach": "2024-11-30 04:07:14 +0000",
       "minecraft:river": "2024-12-01 02:36:41 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:01:23 +0000",
@@ -229,6 +230,12 @@
     },
     "done": false
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-12-01 03:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 03:01:09 +0000"
@@ -267,9 +274,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-01 03:13:41 +0000",
       "minecraft:drowned": "2024-12-01 02:44:34 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-01 03:09:48 +0000"
+    },
+    "done": true
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {

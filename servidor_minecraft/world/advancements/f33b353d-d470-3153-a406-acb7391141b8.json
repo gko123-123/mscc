@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-01 03:08:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2024-12-01 02:46:02 +0000"
@@ -358,6 +364,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-01 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-01 03:09:34 +0000"
     },
     "done": true
   },

@@ -599,6 +599,13 @@
     },
     "done": false
   },
+  "tetra:upgrades/sword_improvement_hone": {
+    "criteria": {
+      "tempered": "2024-12-01 10:04:15 +0000",
+      "serrated": "2024-12-01 10:04:20 +0000"
+    },
+    "done": false
+  },
   "tetra:upgrades/shield_upgrade": {
     "criteria": {
       "module": "2024-12-01 08:40:07 +0000"

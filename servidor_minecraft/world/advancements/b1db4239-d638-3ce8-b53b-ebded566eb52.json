@@ -291,6 +291,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 04:32:52 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-01 02:38:18 +0000"
@@ -422,7 +428,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-01 03:37:19 +0000"
+      "bread": "2024-12-01 03:37:19 +0000",
+      "rotten_flesh": "2024-12-01 04:30:10 +0000"
     },
     "done": false
   },

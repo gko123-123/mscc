@@ -202,6 +202,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-01 06:14:19 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-01 02:39:26 +0000"
@@ -211,6 +217,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-01 02:55:08 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2024-12-01 06:14:19 +0000"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-01 06:16:33 +0000"
     },
     "done": true
   },
@@ -364,6 +382,18 @@
       "minecraft:drowned": "2024-12-01 02:44:34 +0000"
     },
     "done": false
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-12-01 06:14:52 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-12-01 06:14:48 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/rare_gem": {
     "criteria": {
@@ -497,6 +527,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-01 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 06:11:25 +0000"
     },
     "done": true
   },

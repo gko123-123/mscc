@@ -100,6 +100,7 @@
       "minecraft:spider": "2024-11-30 03:47:00 +0000",
       "minecraft:creeper": "2024-12-01 02:40:39 +0000",
       "minecraft:phantom": "2024-12-01 08:32:27 +0000",
+      "minecraft:husk": "2024-12-01 09:50:13 +0000",
       "minecraft:cave_spider": "2024-12-01 06:14:12 +0000",
       "minecraft:silverfish": "2024-11-30 03:30:32 +0000",
       "minecraft:enderman": "2024-12-01 08:06:35 +0000",
@@ -391,6 +392,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "advanced": "2024-12-01 09:52:28 +0000"
+    },
+    "done": false
+  },
   "tetra:spelunking/find_scroll_warforge": {
     "criteria": {
       "find": "2024-12-01 07:40:42 +0000"
@@ -424,6 +431,12 @@
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-12-01 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 09:50:33 +0000"
     },
     "done": true
   },

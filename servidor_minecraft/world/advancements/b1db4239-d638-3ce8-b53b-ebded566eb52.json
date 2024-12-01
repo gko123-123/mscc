@@ -242,9 +242,21 @@
     },
     "done": true
   },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-12-01 03:24:32 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-01 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 03:16:33 +0000"
     },
     "done": true
   },
@@ -263,6 +275,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-12-01 02:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-01 03:16:59 +0000"
     },
     "done": true
   },

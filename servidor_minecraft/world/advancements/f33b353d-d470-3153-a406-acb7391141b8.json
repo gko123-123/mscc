@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-30 03:55:38 +0000",
+      "minecraft:frozen_river": "2024-12-01 03:22:44 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
       "minecraft:river": "2024-12-01 02:33:43 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:00:28 +0000",
@@ -304,6 +305,18 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-01 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-12-01 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 03:17:14 +0000"
     },
     "done": true
   },

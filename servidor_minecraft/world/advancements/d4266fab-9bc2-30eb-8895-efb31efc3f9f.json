@@ -59,6 +59,8 @@
       "minecraft:cold_ocean": "2024-11-30 03:47:59 +0000",
       "minecraft:forest": "2024-11-30 03:24:45 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:59:00 +0000",
+      "minecraft:windswept_forest": "2024-12-01 05:36:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-01 05:36:10 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:04:24 +0000",
       "minecraft:plains": "2024-12-01 04:37:37 +0000"
     },
@@ -422,6 +424,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-01 05:30:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-01 05:38:49 +0000"
     },
     "done": true
   },

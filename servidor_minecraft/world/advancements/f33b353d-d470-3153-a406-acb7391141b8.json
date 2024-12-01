@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-01 05:37:31 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-01 04:38:02 +0000"

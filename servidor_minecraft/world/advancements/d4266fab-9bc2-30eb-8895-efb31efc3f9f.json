@@ -517,6 +517,12 @@
     },
     "done": false
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-01 08:32:39 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-12-01 08:17:21 +0000"
@@ -538,6 +544,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2024-12-01 05:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2024-12-01 08:37:02 +0000"
     },
     "done": true
   },

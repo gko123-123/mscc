@@ -382,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-01 03:01:13 +0000"
@@ -397,6 +403,12 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-01 05:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:26 +0000"
     },
     "done": true
   },
@@ -441,6 +453,12 @@
       "main": "2024-12-01 07:06:17 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:26 +0000"
+    },
+    "done": true
   },
   "estrogen:root": {
     "criteria": {

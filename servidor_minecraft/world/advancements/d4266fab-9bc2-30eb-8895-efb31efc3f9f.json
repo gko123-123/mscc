@@ -414,6 +414,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-01 07:24:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:00 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-01 06:13:12 +0000"
@@ -429,6 +441,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-01 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:00 +0000"
     },
     "done": true
   },

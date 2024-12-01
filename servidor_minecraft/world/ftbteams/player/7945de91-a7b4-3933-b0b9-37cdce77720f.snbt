@@ -1,0 +1,17 @@
+{
+	id: "7945de91-a7b4-3933-b0b9-37cdce77720f"
+	type: "player"
+	player_name: "Maxtrem123"
+	ranks: {
+		7945de91-a7b4-3933-b0b9-37cdce77720f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Maxtrem123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

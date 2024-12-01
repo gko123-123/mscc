@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7945de91a7b43933b0b937cdce77720f"
+	name: "Maxtrem123#7945de91"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

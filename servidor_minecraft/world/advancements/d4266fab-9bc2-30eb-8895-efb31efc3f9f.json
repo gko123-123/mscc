@@ -171,6 +171,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-01 04:57:40 +0000",
       "minecraft:spider": "2024-11-30 03:49:21 +0000",
       "minecraft:zombie": "2024-12-01 03:04:48 +0000"
     },
@@ -365,6 +366,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-01 04:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 04:57:36 +0000"
     },
     "done": true
   },

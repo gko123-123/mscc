@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-11-30 04:07:14 +0000",
+      "minecraft:river": "2024-12-01 02:36:41 +0000",
       "minecraft:forest": "2024-11-30 03:58:47 +0000"
     },
     "done": false
@@ -192,9 +193,64 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-01 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-01 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-01 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-01 02:38:18 +0000",
+      "opened_chest": "2024-12-01 02:39:26 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-01 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-01 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-01 02:38:46 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-12-01 02:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-01 02:38:31 +0000"
     },
     "done": true
   },
@@ -202,6 +258,18 @@
     "criteria": {
       "stone_left": "2024-12-01 02:27:32 +0000",
       "stone_right": "2024-12-01 02:27:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-01 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-01 02:38:40 +0000"
     },
     "done": true
   },

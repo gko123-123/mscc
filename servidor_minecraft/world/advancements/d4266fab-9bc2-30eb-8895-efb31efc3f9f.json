@@ -89,6 +89,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-01 02:41:30 +0000",
       "opened_chest": "2024-11-30 03:32:10 +0000"
     },
     "done": false
@@ -213,9 +214,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-01 02:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 02:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 02:25:35 +0000"
     },
     "done": true
   },
@@ -225,15 +238,27 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron": "2024-12-01 02:22:59 +0000"
+      "iron_chestplate": "2024-12-01 02:39:58 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "lootr:1barrel": {
     "criteria": {
-      "diamond": "2024-12-01 02:25:35 +0000"
+      "opened_barrel": "2024-12-01 02:41:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-01 02:41:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-01 02:41:41 +0000"
     },
     "done": true
   },

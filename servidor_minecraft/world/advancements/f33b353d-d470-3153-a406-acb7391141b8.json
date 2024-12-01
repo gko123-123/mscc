@@ -63,6 +63,7 @@
     "criteria": {
       "minecraft:taiga": "2024-11-30 03:55:38 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
+      "minecraft:river": "2024-12-01 02:33:43 +0000",
       "minecraft:forest": "2024-11-30 03:10:20 +0000"
     },
     "done": false
@@ -89,6 +90,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-30 04:21:25 +0000",
       "minecraft:spider": "2024-11-30 03:47:00 +0000",
+      "minecraft:creeper": "2024-12-01 02:40:39 +0000",
       "minecraft:silverfish": "2024-11-30 03:30:32 +0000",
       "minecraft:zombie": "2024-11-30 03:56:11 +0000"
     },
@@ -265,6 +267,55 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-11-30 04:18:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-01 02:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-01 02:36:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-01 02:42:07 +0000",
+      "opened_chest": "2024-12-01 02:41:01 +0000"
+    },
+    "done": false
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-01 02:39:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-01 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-01 02:42:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-01 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-01 02:42:09 +0000"
     },
     "done": true
   },

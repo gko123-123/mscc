@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-12-01 05:19:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-01 02:52:10 +0000"

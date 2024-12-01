@@ -122,7 +122,7 @@
 	level_max_gladiator = 5
 	#The cooldown in minutes to reset the perks with the ankh of Prayer [20..1440|default:120]
 	#Range: 20 ~ 1440
-	cooldown_reset_perk = 120
+	cooldown_reset_perk = 20
 
 #For settings related to magic items
 [magic_item]
@@ -141,7 +141,7 @@
 	tablet_max_use = 3
 	#Cooldown in second after using a tablet [60..1200|default:300]
 	#Range: 60 ~ 1200
-	tablet_cooldown = 300
+	tablet_cooldown = 70
 
 #For settings related to decorative tombs and magic items
 [decorative_grave]

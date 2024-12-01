@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-01 07:40:42 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-01 02:41:01 +0000"
@@ -358,6 +364,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-01 07:38:25 +0000"
+    },
+    "done": true
+  },
   "tetra:recipes/string": {
     "criteria": {
       "got_string": "2024-12-01 02:39:37 +0000"
@@ -367,6 +379,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-01 05:04:57 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2024-12-01 07:40:42 +0000"
     },
     "done": true
   },

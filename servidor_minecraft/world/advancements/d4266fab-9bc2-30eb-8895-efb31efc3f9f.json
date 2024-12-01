@@ -390,6 +390,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-12-01 06:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-01 04:57:36 +0000"
@@ -417,6 +423,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-01 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-12-01 06:33:48 +0000"
     },
     "done": true
   },
@@ -468,6 +480,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-01 06:41:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-01 05:38:49 +0000"
@@ -495,6 +513,12 @@
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-01 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 06:40:45 +0000"
     },
     "done": true
   },

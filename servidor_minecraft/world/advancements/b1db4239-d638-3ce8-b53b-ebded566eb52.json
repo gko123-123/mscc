@@ -614,6 +614,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-12-01 09:13:08 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-01 08:46:21 +0000"

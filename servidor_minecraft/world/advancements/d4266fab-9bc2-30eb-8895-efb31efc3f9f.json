@@ -54,6 +54,7 @@
       "minecraft:beach": "2024-11-30 03:34:59 +0000",
       "minecraft:river": "2024-11-30 03:47:38 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:32:37 +0000",
+      "minecraft:stony_shore": "2024-12-01 05:12:13 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:03:30 +0000",
       "minecraft:cold_ocean": "2024-11-30 03:47:59 +0000",
       "minecraft:forest": "2024-11-30 03:24:45 +0000",
@@ -173,6 +174,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-01 04:57:40 +0000",
       "minecraft:spider": "2024-11-30 03:49:21 +0000",
+      "minecraft:creeper": "2024-12-01 05:08:42 +0000",
       "minecraft:zombie": "2024-12-01 03:04:48 +0000"
     },
     "done": false
@@ -374,6 +376,12 @@
       "deflected_projectile": "2024-12-01 04:57:36 +0000"
     },
     "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-12-01 05:13:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

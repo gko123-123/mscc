@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-01 04:44:18 +0000"
+    },
+    "done": true
+  },
   "tetra:upgrades/hammer_2": {
     "criteria": {
       "stone_left": "2024-12-01 02:27:32 +0000",

@@ -70,7 +70,8 @@
       "minecraft:cold_ocean": "2024-12-01 02:58:36 +0000",
       "minecraft:forest": "2024-11-30 03:10:20 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:58:44 +0000",
-      "minecraft:snowy_beach": "2024-12-01 03:00:23 +0000"
+      "minecraft:snowy_beach": "2024-12-01 03:00:23 +0000",
+      "minecraft:plains": "2024-12-01 04:37:37 +0000"
     },
     "done": false
   },
@@ -309,6 +310,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "advanced": "2024-12-01 04:42:37 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-01 03:01:13 +0000"
@@ -351,6 +358,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 04:38:02 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-01 02:42:07 +0000"
@@ -378,6 +391,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-01 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-01 04:38:22 +0000"
     },
     "done": true
   },

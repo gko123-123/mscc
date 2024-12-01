@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 06:06:59 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-01 03:01:13 +0000"
@@ -470,6 +476,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-01 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-01 06:03:49 +0000"
     },
     "done": true
   },

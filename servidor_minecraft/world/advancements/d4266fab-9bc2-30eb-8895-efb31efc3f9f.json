@@ -483,6 +483,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-01 06:01:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-01 05:45:35 +0000"

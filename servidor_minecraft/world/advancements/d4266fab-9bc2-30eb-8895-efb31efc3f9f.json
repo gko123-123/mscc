@@ -618,6 +618,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-12-01 07:43:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2024-12-01 05:17:53 +0000"

@@ -64,7 +64,12 @@
       "minecraft:taiga": "2024-11-30 03:55:38 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
       "minecraft:river": "2024-12-01 02:33:43 +0000",
-      "minecraft:forest": "2024-11-30 03:10:20 +0000"
+      "minecraft:snowy_plains": "2024-12-01 03:00:28 +0000",
+      "minecraft:snowy_taiga": "2024-12-01 03:00:24 +0000",
+      "minecraft:cold_ocean": "2024-12-01 02:58:36 +0000",
+      "minecraft:forest": "2024-11-30 03:10:20 +0000",
+      "minecraft:frozen_ocean": "2024-12-01 02:58:44 +0000",
+      "minecraft:snowy_beach": "2024-12-01 03:00:23 +0000"
     },
     "done": false
   },
@@ -92,7 +97,8 @@
       "minecraft:spider": "2024-11-30 03:47:00 +0000",
       "minecraft:creeper": "2024-12-01 02:40:39 +0000",
       "minecraft:silverfish": "2024-11-30 03:30:32 +0000",
-      "minecraft:zombie": "2024-11-30 03:56:11 +0000"
+      "minecraft:zombie": "2024-11-30 03:56:11 +0000",
+      "minecraft:zombie_villager": "2024-12-01 02:58:21 +0000"
     },
     "done": false
   },
@@ -295,6 +301,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-01 03:01:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-01 02:40:30 +0000"
@@ -328,6 +340,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-01 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-01 02:59:24 +0000"
     },
     "done": true
   },

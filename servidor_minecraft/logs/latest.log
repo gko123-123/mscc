@@ -20289,3 +20289,231 @@ java.lang.NullPointerException: Element not found: amount
 [01Dec2024 02:56:10.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
 [01Dec2024 02:56:28.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
 [01Dec2024 02:56:47.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[01Dec2024 02:57:07.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
+[01Dec2024 02:57:15.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=341, y=-49, z=469}
+[01Dec2024 02:57:19.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=187, y=-4, z=487}
+[01Dec2024 02:57:19.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=323, y=6, z=491}
+[01Dec2024 02:57:20.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=343, y=-48, z=494}
+[01Dec2024 02:57:22.555] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=259, y=2, z=508}
+[01Dec2024 02:57:23.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=345, y=-22, z=498}
+[01Dec2024 02:57:32.810] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=407, y=26, z=488}
+[01Dec2024 02:57:33.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=408, y=-34, z=432}
+[01Dec2024 02:57:33.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11581ms or 231 ticks behind
+[01Dec2024 02:57:45.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[01Dec2024 02:57:47.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=442, y=9, z=547}
+[01Dec2024 02:57:47.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=445, y=15, z=551}
+[01Dec2024 02:57:59.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10183ms or 203 ticks behind
+[01Dec2024 02:58:00.707] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=230, y=-23, z=627}
+[01Dec2024 02:58:04.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=189, y=30, z=650}
+[01Dec2024 02:58:09.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=381, y=-31, z=658}
+[01Dec2024 02:58:12.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Mine? Mine? Mine?]
+[01Dec2024 02:58:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[01Dec2024 02:58:18.897] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=6, z=-215}
+[01Dec2024 02:58:20.489] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=479, y=-40, z=399}
+[01Dec2024 02:58:25.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11324ms or 226 ticks behind
+[01Dec2024 02:58:29.288] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=494, y=6, z=434}
+[01Dec2024 02:58:30.835] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=6, z=-215}
+[01Dec2024 02:58:39.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=331, y=-18, z=727}
+[01Dec2024 02:58:39.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to QUETEIMPORTA]
+[01Dec2024 02:58:44.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=209, y=-46, z=737}
+[01Dec2024 02:58:47.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7100ms or 142 ticks behind
+[01Dec2024 02:58:47.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=442, y=-7, z=767}
+[01Dec2024 02:58:47.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=479, y=-33, z=760}
+[01Dec2024 02:58:48.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=196, y=-43, z=752}
+[01Dec2024 02:59:04.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[01Dec2024 02:59:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Clash of the Titans]
+[01Dec2024 03:00:15.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01Dec2024 03:00:21.269] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=218, y=-5, z=772}
+[01Dec2024 03:00:22.270] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=87, y=-17, z=774}
+[01Dec2024 03:00:33.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[01Dec2024 03:00:50.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Timed out
+[01Dec2024 03:00:50.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[01Dec2024 03:00:50.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[01Dec2024 03:00:59.687] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=11, y=-46, z=701}
+[01Dec2024 03:01:08.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=323, y=-25, z=831}
+[01Dec2024 03:01:09.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[01Dec2024 03:01:09.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Isn't It Iron Pick]
+[01Dec2024 03:01:13.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-30, y=-20, z=573}
+[01Dec2024 03:01:26.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[01Dec2024 03:01:45.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=503, y=46, z=660}
+[01Dec2024 03:01:48.422] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=503, y=16, z=740}
+[01Dec2024 03:01:48.423] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=496, y=31, z=747}
+[01Dec2024 03:01:50.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-57, y=12, z=772}
+[01Dec2024 03:01:50.358] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@501d2c9d[id=<null>,name=gko123,properties={},legacy=false] (/127.106.153.231:33807) lost connection: Disconnected
+[01Dec2024 03:01:56.696] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Dec2024 03:01:56.769] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Dec2024 03:01:56.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/12924, l='ServerLevel[world]', x=-2.50, y=62.00, z=614.50]
+[01Dec2024 03:01:56.854] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Dec2024 03:01:56.928] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Dec2024 03:01:57.013] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Dec2024 03:01:57.069] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Dec2024 03:01:57.134] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Dec2024 03:01:57.240] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Dec2024 03:01:57.334] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Dec2024 03:01:57.392] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Dec2024 03:01:57.459] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Dec2024 03:01:57.515] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Dec2024 03:01:58.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Dec2024 03:01:58.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-89, y=-50, z=558}
+[01Dec2024 03:01:59.236] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Dec2024 03:02:00.206] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Dec2024 03:02:00.250] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Dec2024 03:02:00.250] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Dec2024 03:02:00.318] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Dec2024 03:02:00.827] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[01Dec2024 03:02:03.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=169, y=-44, z=864}
+[01Dec2024 03:02:05.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=445, y=-44, z=781}
+[01Dec2024 03:02:17.827] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[01Dec2024 03:02:17.843] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[01Dec2024 03:02:17.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/127.106.153.231:48721] logged in with entity id 13150 at (229.6583506213695, 63.0, 585.313050097183)
+[01Dec2024 03:02:17.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[01Dec2024 03:02:17.853] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[01Dec2024 03:02:17.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[01Dec2024 03:02:17.861] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[01Dec2024 03:02:17.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[01Dec2024 03:02:17.865] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[01Dec2024 03:02:17.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[01Dec2024 03:02:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[01Dec2024 03:02:18.489] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[01Dec2024 03:02:18.573] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[01Dec2024 03:02:22.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9533ms or 190 ticks behind
+[01Dec2024 03:02:37.963] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-151, y=-47, z=763}
+[01Dec2024 03:02:48.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11011ms or 220 ticks behind
+[01Dec2024 03:03:13.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9398ms or 187 ticks behind
+[01Dec2024 03:03:26.094] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[01Dec2024 03:03:26.095] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[01Dec2024 03:03:26.095] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[01Dec2024 03:03:26.096] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[01Dec2024 03:03:26.328] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[01Dec2024 03:03:26.330] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[01Dec2024 03:03:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[01Dec2024 03:03:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[01Dec2024 03:03:38.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10742ms or 214 ticks behind
+[01Dec2024 03:03:50.470] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-116, y=12, z=960}
+[01Dec2024 03:03:59.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Dec2024 03:04:18.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[01Dec2024 03:04:41.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Dec2024 03:04:46.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was slain by Dread Knight
+[01Dec2024 03:04:46.684] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[01Dec2024 03:04:47.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Dread Knight
+[01Dec2024 03:04:47.525] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[01Dec2024 03:04:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA was slain by Dread Beast
+[01Dec2024 03:04:51.211] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[01Dec2024 03:04:53.609] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=258, y=21, z=901}
+[01Dec2024 03:04:58.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 8.500000, 64.500000, 792.500000]
+[01Dec2024 03:04:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 16.500000, 63.500000, 793.500000]
+[01Dec2024 03:04:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [How'd You Get This?]
+[01Dec2024 03:04:59.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[01Dec2024 03:05:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Discreet Search]
+[01Dec2024 03:05:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 18.500000, 64.500000, 759.500000]
+[01Dec2024 03:05:27.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Dec2024 03:05:45.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Dec2024 03:06:11.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Dec2024 03:06:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA was slain by Dread Knight
+[01Dec2024 03:06:15.617] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[01Dec2024 03:06:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[01Dec2024 03:06:30.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[01Dec2024 03:06:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Dread Knight
+[01Dec2024 03:06:46.029] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[01Dec2024 03:06:47.340] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23396!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01Dec2024 03:06:47.344] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23396!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01Dec2024 03:06:47.350] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.11.jar%23380!/:1.20.1-1.10.11]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingAttack(ForgeHooks.java:269) ~[forge-1.20.1-47.3.7-universal.jar%23396!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1059) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23391!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01Dec2024 03:06:48.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[01Dec2024 03:06:54.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 16.500000, 64.500000, 757.500000]
+[01Dec2024 03:06:56.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was slain by Nightmare Stalker
+[01Dec2024 03:06:56.410] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[01Dec2024 03:07:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 11.500000, 64.500000, 760.500000]
+[01Dec2024 03:07:08.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4903ms or 98 ticks behind

@@ -27518,3 +27518,11 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [01Dec2024 10:44:45.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [01Dec2024 10:45:31.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [01Dec2024 10:47:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Take Aim]
+[01Dec2024 10:48:52.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01Dec2024 10:52:22.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QUETEIMPORTA lost connection: Disconnected
+[01Dec2024 10:52:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA left the game
+[01Dec2024 10:52:49.528] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=913, y=87, z=133} of type townhall
+[01Dec2024 10:53:31.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Start Your Colony]
+[01Dec2024 10:53:31.878] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[01Dec2024 11:02:50.553] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=896, y=78, z=165} of type guardtower
+[01Dec2024 11:04:52.458] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony

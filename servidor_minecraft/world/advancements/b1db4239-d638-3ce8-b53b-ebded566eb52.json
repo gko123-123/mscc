@@ -591,8 +591,15 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2024-12-01 10:53:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2024-12-01 10:50:04 +0000",
       "charm_collector_0": "2024-12-01 09:28:17 +0000",
       "charm_collector_3": "2024-12-01 09:28:10 +0000",
       "charm_collector_2": "2024-12-01 10:00:03 +0000"
@@ -633,6 +640,12 @@
   "tetra:upgrades/tool_upgrade": {
     "criteria": {
       "axe": "2024-12-01 08:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-01 10:47:16 +0000"
     },
     "done": true
   },

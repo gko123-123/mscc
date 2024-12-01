@@ -255,6 +255,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-01 03:44:00 +0000",
       "rotten_flesh": "2024-11-30 04:07:49 +0000"
     },
     "done": false

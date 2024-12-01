@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2024-12-01 03:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 03:01:09 +0000"
@@ -251,6 +257,24 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-01 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_integrity": {
+    "criteria": {
+      "module": "2024-12-01 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-01 03:40:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-01 03:42:47 +0000"
     },
     "done": true
   },
@@ -293,6 +317,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-01 03:13:41 +0000",
+      "minecraft:zombie": "2024-12-01 03:41:05 +0000",
       "minecraft:drowned": "2024-12-01 02:44:34 +0000"
     },
     "done": false
@@ -346,9 +371,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-01 03:37:19 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2024-12-01 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 03:39:51 +0000"
     },
     "done": true
   },

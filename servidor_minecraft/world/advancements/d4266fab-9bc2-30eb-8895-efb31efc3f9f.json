@@ -150,6 +150,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-11-30 03:45:00 +0000",
+      "bread": "2024-12-01 03:41:50 +0000",
       "rotten_flesh": "2024-12-01 03:23:50 +0000"
     },
     "done": false
@@ -287,15 +288,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-01 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-01 03:44:56 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-01 03:03:02 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 03:40:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2024-12-01 03:05:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 03:44:56 +0000"
     },
     "done": true
   },

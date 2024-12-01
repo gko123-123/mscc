@@ -153,6 +153,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-01 05:54:47 +0000",
+      "baked_potato": "2024-12-01 05:48:40 +0000",
       "apple": "2024-11-30 03:45:00 +0000",
       "bread": "2024-12-01 03:41:50 +0000",
       "golden_apple": "2024-12-01 04:46:08 +0000",
@@ -409,9 +411,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-01 05:52:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2024-12-01 05:22:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-12-01 05:45:58 +0000"
     },
     "done": true
   },
@@ -433,6 +447,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-01 05:53:09 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "yellow": "2024-12-01 05:13:48 +0000"
@@ -445,6 +465,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-01 05:45:35 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
       "builder_request": "2024-12-01 05:19:29 +0000"
@@ -454,6 +480,12 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2024-12-01 05:18:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-01 05:45:35 +0000"
     },
     "done": true
   },

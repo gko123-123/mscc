@@ -307,15 +307,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 02:46:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2024-12-01 02:46:02 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-01 02:40:30 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 02:55:46 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2024-12-01 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 02:52:10 +0000"
     },
     "done": true
   },

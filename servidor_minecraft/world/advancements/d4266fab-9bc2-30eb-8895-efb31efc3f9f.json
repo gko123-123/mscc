@@ -244,6 +244,18 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-01 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-01 02:50:46 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-01 02:41:30 +0000"

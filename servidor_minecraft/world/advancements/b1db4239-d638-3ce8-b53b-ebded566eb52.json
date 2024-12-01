@@ -616,9 +616,22 @@
     },
     "done": true
   },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-12-01 09:39:44 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/fulfill_request": {
     "criteria": {
       "click_gui_button_fulfill": "2024-12-01 08:25:01 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2024-12-01 09:35:58 +0000",
+      "head_right": "2024-12-01 09:35:53 +0000"
     },
     "done": true
   },
@@ -637,6 +650,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-01 08:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-12-01 09:39:44 +0000"
     },
     "done": true
   },

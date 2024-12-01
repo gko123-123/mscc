@@ -567,6 +567,12 @@
     },
     "done": true
   },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-12-01 09:39:44 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2024-12-01 06:27:12 +0000"
@@ -672,6 +678,12 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2024-12-01 05:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-12-01 09:39:44 +0000"
     },
     "done": true
   },

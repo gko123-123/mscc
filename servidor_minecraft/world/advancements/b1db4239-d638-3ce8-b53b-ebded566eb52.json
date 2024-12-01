@@ -593,5 +593,11 @@
     },
     "done": true
   },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "axe": "2024-12-01 08:13:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

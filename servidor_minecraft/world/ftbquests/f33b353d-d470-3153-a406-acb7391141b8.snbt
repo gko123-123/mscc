@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f33b353dd4703153a406acb7391141b8"
+	name: "QUETEIMPORTA#f33b353d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

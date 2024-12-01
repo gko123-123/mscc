@@ -1,0 +1,17 @@
+{
+	id: "f33b353d-d470-3153-a406-acb7391141b8"
+	type: "player"
+	player_name: "QUETEIMPORTA"
+	ranks: {
+		f33b353d-d470-3153-a406-acb7391141b8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "QUETEIMPORTA"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FCFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

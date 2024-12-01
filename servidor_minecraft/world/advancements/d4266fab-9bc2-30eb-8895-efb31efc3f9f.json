@@ -433,6 +433,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-01 08:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-01 07:24:00 +0000"
@@ -448,6 +454,12 @@
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
       "has_ingredient": "2024-12-01 05:17:53 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-01 08:07:22 +0000"
     },
     "done": true
   },

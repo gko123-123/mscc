@@ -192,5 +192,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-01 02:26:23 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_2": {
+    "criteria": {
+      "stone_left": "2024-12-01 02:27:32 +0000",
+      "stone_right": "2024-12-01 02:27:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

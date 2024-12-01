@@ -20101,3 +20101,34 @@ java.lang.NullPointerException: Element not found: amount
 [01Dec2024 02:21:38.215] [Server thread/INFO] [Jade/]: Syncing config to QUETEIMPORTA (f33b353d-d470-3153-a406-acb7391141b8)
 [01Dec2024 02:22:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Acquire Hardware]
 [01Dec2024 02:23:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Isn't It Iron Pick]
+[01Dec2024 02:25:08.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
+[01Dec2024 02:25:29.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01Dec2024 02:25:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Diamonds!]
+[01Dec2024 02:25:53.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8937ms or 178 ticks behind
+[01Dec2024 02:25:55.072] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=323, y=75, z=29}
+[01Dec2024 02:25:56.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=333, y=22, z=96}
+[01Dec2024 02:26:23.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Not a Diamond]
+[01Dec2024 02:26:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Not a Diamond]
+[01Dec2024 02:27:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gko123> xaero-waypoint:Shared Location:S:37:~:274:9:false:0:Internal-overworld-waypoints
+[01Dec2024 02:27:32.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has reached the goal [Hammer II (Stone)]
+[01Dec2024 02:28:59.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=360, y=-37, z=121}
+[01Dec2024 02:32:20.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has reached the goal [Worthy Equipment]
+[01Dec2024 02:32:20.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Apothic Affixes]
+[01Dec2024 02:32:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [How'd You Get This?]
+[01Dec2024 02:33:20.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[01Dec2024 02:34:21.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 38.500000, 69.500000, 35.500000]
+[01Dec2024 02:35:01.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=321, y=-18, z=-101}
+[01Dec2024 02:35:05.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[01Dec2024 02:35:07.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=354, y=-44, z=-117}
+[01Dec2024 02:35:11.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=374, y=-41, z=-106}
+[01Dec2024 02:35:25.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4786ms or 95 ticks behind
+[01Dec2024 02:35:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was turned into gorgonzola by Gorgon
+[01Dec2024 02:35:26.286] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[01Dec2024 02:35:35.112] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=215, y=4, z=355}
+[01Dec2024 02:35:36.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=245, y=-33, z=352}
+[01Dec2024 02:35:44.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[01Dec2024 02:36:03.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Dec2024 02:36:20.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[01Dec2024 02:36:28.345] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=410, y=-37, z=15}
+[01Dec2024 02:36:30.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=407, y=-50, z=-113}
+[01Dec2024 02:36:40.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5166ms or 103 ticks behind

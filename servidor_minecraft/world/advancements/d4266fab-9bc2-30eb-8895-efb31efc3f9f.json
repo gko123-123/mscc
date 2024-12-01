@@ -180,6 +180,7 @@
       "minecraft:skeleton": "2024-12-01 04:57:40 +0000",
       "minecraft:spider": "2024-11-30 03:49:21 +0000",
       "minecraft:creeper": "2024-12-01 05:08:42 +0000",
+      "minecraft:phantom": "2024-12-01 08:58:26 +0000",
       "minecraft:cave_spider": "2024-12-01 06:27:32 +0000",
       "minecraft:stray": "2024-12-01 06:09:37 +0000",
       "minecraft:zombie": "2024-12-01 03:04:48 +0000",
@@ -436,6 +437,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-01 08:07:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 08:58:26 +0000"
     },
     "done": true
   },

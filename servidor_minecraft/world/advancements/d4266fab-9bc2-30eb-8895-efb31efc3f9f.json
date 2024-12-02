@@ -380,9 +380,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_plate": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_grave_plate": "2024-12-01 05:18:48 +0000"
+      "deflected_projectile": "2024-12-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-12-01 05:13:48 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-01 05:17:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-01 05:17:53 +0000"
     },
     "done": true
   },
@@ -392,117 +410,39 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "tombstone:recipes/from_decorative_grave": {
     "criteria": {
-      "tamed_animal": "2024-12-01 07:30:59 +0000"
+      "has_ingredient": "2024-12-01 05:18:02 +0000"
     },
     "done": true
   },
-  "vampirism:main/ancient_knowledge": {
+  "tombstone:adventure/create_grave_plate": {
     "criteria": {
-      "blood_container": "2024-12-01 06:30:16 +0000"
+      "has_grave_plate": "2024-12-01 05:18:48 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_fishing_rod": {
+  "minecolonies:minecolonies/start_builder": {
     "criteria": {
-      "has_fishing_rod": "2024-12-01 07:07:46 +0000"
+      "builder_request": "2024-12-01 05:19:29 +0000"
     },
     "done": true
   },
-  "create:andesite_alloy": {
+  "tombstone:adventure/first_pray": {
     "criteria": {
-      "0": "2024-12-01 07:58:18 +0000"
+      "coded_trigger": "2024-12-01 05:22:18 +0000"
     },
     "done": true
   },
-  "create:water_wheel": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "0": "2024-12-01 09:26:10 +0000"
+      "fighting_nightmares_0": "2024-12-01 05:30:50 +0000"
     },
     "done": true
   },
-  "create:windmill_maxed": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "0": "2024-12-01 09:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2024-12-01 06:10:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-01 07:24:04 +0000"
-    },
-    "done": false
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2024-12-01 08:07:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-01 08:58:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-01 07:24:00 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2024-12-01 06:13:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2024-12-01 05:17:53 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-01 08:07:22 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2024-12-01 07:33:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-12-01 05:32:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-01 07:24:00 +0000"
-    },
-    "done": true
-  },
-  "estrogen:root": {
-    "criteria": {
-      "root": "2024-12-01 06:33:48 +0000"
+      "underground_cabin": "2024-12-01 05:31:58 +0000"
     },
     "done": true
   },
@@ -512,15 +452,39 @@
     },
     "done": true
   },
-  "create:stressometer": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "0": "2024-12-01 08:47:57 +0000"
+      "cave_tablet": "2024-12-01 05:32:10 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "obsidian": "2024-12-01 06:46:24 +0000"
+      "cave_book": "2024-12-01 05:32:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-01 05:38:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-01 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-01 05:45:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-12-01 05:45:58 +0000"
     },
     "done": true
   },
@@ -530,15 +494,165 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
+  "immersive_armors:recipes/misc/warrior": {
     "criteria": {
-      "nourishment": "2024-12-01 08:44:44 +0000"
+      "has_item": "2024-12-01 05:53:09 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_pray": {
+  "mythicmounts:summoning_staff": {
     "criteria": {
-      "coded_trigger": "2024-12-01 05:22:18 +0000"
+      "has_pearl": "2024-12-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 06:10:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-01 06:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-01 06:21:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-01 06:27:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-12-01 06:30:16 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-12-01 06:33:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 06:40:45 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-01 06:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-01 06:46:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-01 06:54:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-01 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-01 07:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2024-12-01 07:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-01 07:24:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-01 07:30:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-01 07:31:18 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-12-01 07:33:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 07:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-12-01 07:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-01 07:58:18 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-01 08:07:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-01 08:07:37 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-01 08:17:21 +0000"
     },
     "done": true
   },
@@ -555,15 +669,39 @@
     },
     "done": true
   },
-  "create:mechanical_press": {
+  "create:windmill": {
     "criteria": {
-      "0": "2024-12-01 08:17:21 +0000"
+      "0": "2024-12-01 08:37:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
-      "diamond_helmet": "2024-12-01 06:21:32 +0000"
+      "nourishment": "2024-12-01 08:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-01 08:47:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 08:58:26 +0000"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2024-12-01 09:05:12 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-01 09:26:10 +0000"
     },
     "done": true
   },
@@ -573,39 +711,9 @@
     },
     "done": true
   },
-  "lootr:1cart": {
+  "minecolonies:minecolonies/build_builder": {
     "criteria": {
-      "opened_cart": "2024-12-01 06:27:12 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/root": {
-    "criteria": {
-      "main": "2024-12-01 05:45:58 +0000"
-    },
-    "done": true
-  },
-  "create:windmill": {
-    "criteria": {
-      "0": "2024-12-01 08:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/citizen_eat_food_first": {
-    "criteria": {
-      "citizen_eat_anything": "2024-12-01 07:17:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-01 10:19:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-01 05:31:58 +0000"
+      "builders_hut": "2024-12-01 09:39:44 +0000"
     },
     "done": true
   },
@@ -615,117 +723,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "fighting_nightmares_0": "2024-12-01 05:30:50 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2024-12-01 06:41:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-01 05:38:49 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2024-12-01 07:09:55 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2024-12-01 05:53:09 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_blossom_saplings": {
-    "criteria": {
-      "yellow": "2024-12-01 05:13:48 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2024-12-01 05:32:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-01 05:45:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-01 06:54:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-01 06:40:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_strange_scroll": {
-    "criteria": {
-      "has_strange_scroll": "2024-12-01 07:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/start_builder": {
-    "criteria": {
-      "builder_request": "2024-12-01 05:19:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2024-12-01 05:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/build_builder": {
-    "criteria": {
-      "builders_hut": "2024-12-01 09:39:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2024-12-01 07:31:18 +0000"
-    },
-    "done": false
-  },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2024-12-01 06:01:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2024-12-01 05:45:35 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/colony_population_5": {
-    "criteria": {
-      "population_5": "2024-12-01 07:43:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2024-12-01 05:17:53 +0000"
+      "slept_in_bed": "2024-12-01 10:19:38 +0000"
     },
     "done": true
   },

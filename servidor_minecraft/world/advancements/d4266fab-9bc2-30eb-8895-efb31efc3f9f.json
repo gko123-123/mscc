@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-03 09:19:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2024-12-03 09:14:31 +0000"
@@ -924,6 +930,18 @@
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2024-12-03 09:10:43 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-03 09:22:42 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-03 09:19:00 +0000"
     },
     "done": true
   },

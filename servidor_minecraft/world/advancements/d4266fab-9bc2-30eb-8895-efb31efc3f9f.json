@@ -772,6 +772,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2024-12-03 06:45:49 +0000"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2024-12-03 05:57:41 +0000"

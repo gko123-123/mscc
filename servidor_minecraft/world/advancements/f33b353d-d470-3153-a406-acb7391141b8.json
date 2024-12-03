@@ -658,7 +658,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-03 06:52:50 +0000",
-      "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000"
+      "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000",
+      "minecraft:soul_sand_valley": "2024-12-03 07:27:25 +0000"
     },
     "done": false
   },
@@ -757,6 +758,12 @@
       "charm_collector_1": "2024-12-03 05:50:46 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-03 07:25:40 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/create_fishing_rod": {
     "criteria": {

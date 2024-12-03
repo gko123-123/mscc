@@ -754,9 +754,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-03 05:56:45 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-03 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-03 05:56:45 +0000"
     },
     "done": true
   },

@@ -755,6 +755,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-03 06:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-12-03 05:56:45 +0000"
@@ -764,6 +770,12 @@
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-03 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-03 06:43:47 +0000"
     },
     "done": true
   },

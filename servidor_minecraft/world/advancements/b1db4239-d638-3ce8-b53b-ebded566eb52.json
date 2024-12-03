@@ -41,6 +41,7 @@
       "minecraft:taiga": "2024-12-01 05:48:52 +0000",
       "minecraft:frozen_river": "2024-12-01 03:09:14 +0000",
       "minecraft:cherry_grove": "2024-12-01 04:53:30 +0000",
+      "minecraft:sunflower_plains": "2024-12-03 09:00:21 +0000",
       "minecraft:beach": "2024-11-30 04:07:14 +0000",
       "minecraft:sparse_jungle": "2024-12-03 08:36:31 +0000",
       "minecraft:river": "2024-12-01 02:36:41 +0000",
@@ -48,11 +49,13 @@
       "minecraft:stony_shore": "2024-12-01 07:05:21 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:01:22 +0000",
       "minecraft:grove": "2024-12-03 08:47:49 +0000",
+      "minecraft:jagged_peaks": "2024-12-03 09:00:51 +0000",
       "minecraft:cold_ocean": "2024-12-01 02:47:01 +0000",
       "minecraft:forest": "2024-11-30 03:58:47 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:58:48 +0000",
       "minecraft:ocean": "2024-12-03 08:36:00 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:01:20 +0000",
+      "minecraft:flower_forest": "2024-12-03 09:00:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-03 08:43:55 +0000",
       "minecraft:meadow": "2024-12-03 08:18:57 +0000",
       "minecraft:savanna": "2024-12-03 08:39:29 +0000",
@@ -790,6 +793,12 @@
     "criteria": {
       "head_left": "2024-12-03 07:59:07 +0000",
       "head_right": "2024-12-03 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-03 08:59:43 +0000"
     },
     "done": true
   },

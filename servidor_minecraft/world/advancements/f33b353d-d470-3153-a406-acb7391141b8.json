@@ -774,6 +774,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-03 07:06:51 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-03 05:38:12 +0000"

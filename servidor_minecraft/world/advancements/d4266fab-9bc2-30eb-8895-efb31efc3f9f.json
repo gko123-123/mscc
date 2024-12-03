@@ -52,6 +52,7 @@
       "minecraft:taiga": "2024-11-30 03:46:32 +0000",
       "minecraft:frozen_river": "2024-12-01 03:30:49 +0000",
       "minecraft:cherry_grove": "2024-12-03 07:38:22 +0000",
+      "minecraft:birch_forest": "2024-12-03 08:16:41 +0000",
       "minecraft:beach": "2024-11-30 03:34:59 +0000",
       "minecraft:river": "2024-11-30 03:47:38 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:32:37 +0000",
@@ -64,6 +65,8 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-01 05:36:10 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:04:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-03 08:01:36 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-03 08:17:14 +0000",
+      "minecraft:meadow": "2024-12-03 08:14:25 +0000",
       "minecraft:plains": "2024-12-01 04:37:37 +0000"
     },
     "done": false

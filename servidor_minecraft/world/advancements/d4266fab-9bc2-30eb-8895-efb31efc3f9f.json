@@ -951,6 +951,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-03 09:45:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2024-12-03 08:42:30 +0000"

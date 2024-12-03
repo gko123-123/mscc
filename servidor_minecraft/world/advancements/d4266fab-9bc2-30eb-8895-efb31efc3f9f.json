@@ -52,6 +52,7 @@
       "minecraft:snowy_slopes": "2024-12-03 08:47:45 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-03 08:51:26 +0000",
       "minecraft:taiga": "2024-11-30 03:46:32 +0000",
+      "minecraft:deep_ocean": "2024-12-03 09:02:06 +0000",
       "minecraft:frozen_river": "2024-12-01 03:30:49 +0000",
       "minecraft:cherry_grove": "2024-12-03 07:38:22 +0000",
       "minecraft:sunflower_plains": "2024-12-03 08:48:55 +0000",
@@ -59,8 +60,10 @@
       "minecraft:bamboo_jungle": "2024-12-03 08:59:41 +0000",
       "minecraft:beach": "2024-11-30 03:34:59 +0000",
       "minecraft:dark_forest": "2024-12-03 08:46:01 +0000",
+      "minecraft:mangrove_swamp": "2024-12-03 09:06:45 +0000",
       "minecraft:sparse_jungle": "2024-12-03 08:36:22 +0000",
       "minecraft:river": "2024-11-30 03:47:38 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-03 09:02:51 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:32:37 +0000",
       "minecraft:stony_shore": "2024-12-01 05:12:13 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:03:30 +0000",
@@ -69,6 +72,7 @@
       "minecraft:cold_ocean": "2024-11-30 03:47:59 +0000",
       "minecraft:forest": "2024-11-30 03:24:45 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:59:00 +0000",
+      "minecraft:desert": "2024-12-03 09:06:43 +0000",
       "minecraft:windswept_forest": "2024-12-01 05:36:08 +0000",
       "minecraft:jungle": "2024-12-03 08:38:21 +0000",
       "minecraft:ocean": "2024-12-03 08:35:49 +0000",
@@ -911,9 +915,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-03 09:14:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-03 09:10:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2024-12-03 08:42:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2024-12-03 09:14:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2024-12-03 09:12:29 +0000"
     },
     "done": true
   },

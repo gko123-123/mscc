@@ -704,5 +704,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-03 05:53:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

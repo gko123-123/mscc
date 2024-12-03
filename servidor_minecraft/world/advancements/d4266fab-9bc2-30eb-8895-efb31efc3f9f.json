@@ -939,6 +939,12 @@
     },
     "done": true
   },
+  "create:haunted_bell": {
+    "criteria": {
+      "0": "2024-12-03 09:35:25 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2024-12-03 09:19:00 +0000"

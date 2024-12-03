@@ -755,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-03 07:16:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2024-12-03 06:42:08 +0000"
@@ -782,6 +788,18 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-03 06:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-03 07:16:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-03 07:20:12 +0000"
     },
     "done": true
   },
@@ -818,6 +836,12 @@
   "tetra:upgrades/double_headed": {
     "criteria": {
       "hammer": "2024-12-03 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-03 07:18:55 +0000"
     },
     "done": true
   },

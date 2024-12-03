@@ -38,9 +38,9 @@
 	#Allows Curse of Bones at enchanting table [false/true|default:false]
 	curse_of_bones_enchanting_table = false
 	#Allows Blessing at enchanting table [false/true|default:false]
-	blessing_enchanting_table = false
+	blessing_enchanting_table = true
 	#Allows Frostbite at enchanting table [false/true|default:false]
-	frostbite_enchanting_table = false
+	frostbite_enchanting_table = true
 	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
 	spectral_conjurer_enchanting_table = false
 	#Allows Plague Bringer to combine with Magic Siphon [false/true|default:false]

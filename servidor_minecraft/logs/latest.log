@@ -20527,3 +20527,54 @@ java.lang.NullPointerException: Element not found: amount
 [03Dec2024 06:56:43.187] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
 [03Dec2024 06:56:48.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
 [03Dec2024 06:56:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 06:57:07.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
+[03Dec2024 06:57:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[03Dec2024 06:57:50.321] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 06:57:50.364] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:57:51.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Netherite Monstrosity, they gave up
+[03Dec2024 06:57:51.626] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:57:56.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Dec2024 06:57:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[03Dec2024 06:58:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 06:58:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to QUETEIMPORTA]
+[03Dec2024 06:58:19.881] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 06:58:19.929] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:58:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Netherite Monstrosity, they gave up
+[03Dec2024 06:58:21.160] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:58:24.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[03Dec2024 06:58:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 06:58:41.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[03Dec2024 06:58:53.284] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 06:58:53.331] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:58:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Netherite Monstrosity, they gave up
+[03Dec2024 06:58:54.554] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:58:58.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Dec2024 06:58:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 06:59:15.703] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 06:59:15.801] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:59:16.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[03Dec2024 06:59:17.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Netherite Monstrosity, they gave up
+[03Dec2024 06:59:17.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was burnt to a crisp whilst fighting Netherite Monstrosity
+[03Dec2024 06:59:17.158] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:59:17.213] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[03Dec2024 06:59:21.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to QUETEIMPORTA]
+[03Dec2024 06:59:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 06:59:36.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[03Dec2024 06:59:39.820] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 06:59:39.904] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:59:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has completed the challenge [The broken Nether's warmachine]
+[03Dec2024 06:59:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 burned to death
+[03Dec2024 06:59:41.148] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[03Dec2024 06:59:41.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Netherite Monstrosity scorched QUETEIMPORTA, they gave up
+[03Dec2024 06:59:41.867] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 06:59:56.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
+[03Dec2024 06:59:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 07:02:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 07:05:55.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Summoned new Nether Gauntlet]
+[03Dec2024 07:06:25.998] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 07:06:26.063] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 07:06:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Nether Gauntlet, they gave up
+[03Dec2024 07:06:27.495] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 07:06:31.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 07:06:35.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03Dec2024 07:06:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Take Aim]

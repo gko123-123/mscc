@@ -655,6 +655,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-03 06:52:50 +0000",
       "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000"
     },
     "done": false
@@ -761,6 +762,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-03 06:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-12-03 05:56:45 +0000"
@@ -776,6 +783,12 @@
   "tombstone:adventure/enchant_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2024-12-03 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-03 06:59:39 +0000"
     },
     "done": true
   },

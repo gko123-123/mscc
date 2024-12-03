@@ -368,6 +368,7 @@
     "criteria": {
       "baked_potato": "2024-12-01 05:52:35 +0000",
       "apple": "2024-12-03 06:27:21 +0000",
+      "potato": "2024-12-03 06:53:46 +0000",
       "bread": "2024-12-01 03:37:19 +0000",
       "rotten_flesh": "2024-12-01 04:30:10 +0000"
     },
@@ -705,6 +706,24 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-03 06:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-03 06:53:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-03 06:53:44 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-03 05:53:42 +0000"
@@ -717,9 +736,33 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-03 06:53:44 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-03 06:03:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 06:54:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 06:54:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-03 06:54:38 +0000"
     },
     "done": true
   },

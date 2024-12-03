@@ -288,95 +288,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2024-12-01 07:40:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-01 07:41:38 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-01 02:41:01 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-01 02:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-01 03:56:41 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2024-12-01 02:42:07 +0000",
-      "opened_chest": "2024-12-01 02:41:01 +0000",
-      "opened_cart": "2024-12-01 06:25:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-01 07:12:20 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/ancient_knowledge": {
-    "criteria": {
-      "blood_container": "2024-12-01 06:27:27 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-01 04:58:11 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2024-12-01 07:13:38 +0000"
-    },
-    "done": false
-  },
-  "immersive_armors:recipes/misc/wither": {
-    "criteria": {
-      "has_item": "2024-12-01 07:38:25 +0000"
     },
     "done": true
   },
@@ -386,41 +300,73 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2024-12-01 05:04:57 +0000"
+      "from_undead": "2024-12-01 02:40:30 +0000"
     },
     "done": true
   },
-  "vampirism:hunter/technology": {
+  "immersive_armors:recipes/misc/bone": {
     "criteria": {
-      "advanced": "2024-12-01 09:52:28 +0000"
+      "has_item": "2024-12-01 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-01 02:41:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-01 02:42:07 +0000",
+      "opened_chest": "2024-12-01 02:41:01 +0000",
+      "opened_cart": "2024-12-01 06:25:14 +0000"
     },
     "done": false
   },
-  "tetra:spelunking/find_scroll_warforge": {
+  "lootr:1barrel": {
     "criteria": {
-      "find": "2024-12-01 07:40:42 +0000"
+      "opened_barrel": "2024-12-01 02:42:07 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
+  "apotheosis:affix/chests": {
     "criteria": {
-      "has_item": "2024-12-01 04:50:45 +0000"
+      "sword": "2024-12-01 02:42:09 +0000"
     },
     "done": true
   },
-  "lootr:50loot": {
+  "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
-      "loot_stat": "2024-12-01 06:06:59 +0000"
+      "arachnophobes_nightmare_0": "2024-12-01 02:46:02 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000"
+      "slept_in_bed": "2024-12-01 02:46:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 02:52:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 02:55:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-01 02:59:24 +0000"
+    },
+    "done": true
   },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
@@ -428,33 +374,15 @@
     },
     "done": true
   },
-  "tetra:spelunking/ancient_ruins": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "regular_ruin": "2024-12-01 03:23:09 +0000"
+      "fighting_nightmares_0": "2024-12-01 03:08:24 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "coded_trigger": "2024-12-01 09:50:33 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2024-12-01 05:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-01 07:24:26 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2024-12-01 06:10:40 +0000"
+      "bestiary": "2024-12-01 03:09:34 +0000"
     },
     "done": true
   },
@@ -464,21 +392,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/geode": {
+  "tetra:spelunking/ancient_ruins": {
     "criteria": {
-      "get_geode": "2024-12-01 03:54:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-01 02:40:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2024-12-01 04:25:37 +0000"
+      "regular_ruin": "2024-12-01 03:23:09 +0000"
     },
     "done": true
   },
@@ -488,27 +404,21 @@
     },
     "done": true
   },
-  "vampirism:vampire/kill_mother": {
+  "tetra:spelunking/geode": {
     "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-01 07:24:26 +0000"
+      "get_geode": "2024-12-01 03:54:48 +0000"
     },
     "done": true
   },
-  "estrogen:root": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "root": "2024-12-01 06:29:35 +0000"
+      "lava_bucket": "2024-12-01 03:56:41 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
+  "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
-      "gem": "2024-12-01 05:37:31 +0000"
+      "iron": "2024-12-01 04:25:37 +0000"
     },
     "done": true
   },
@@ -518,9 +428,39 @@
     },
     "done": true
   },
-  "lootr:1barrel": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "opened_barrel": "2024-12-01 02:42:07 +0000"
+      "find_artifact": "2024-12-01 04:38:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-01 04:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 04:58:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-01 05:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-12-01 05:19:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-01 05:29:55 +0000"
     },
     "done": true
   },
@@ -530,10 +470,75 @@
     },
     "done": true
   },
-  "vampirism:vampire/first_blood": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "main": "2024-12-01 07:06:17 +0000",
-      "flower": "2024-12-01 07:08:39 +0000"
+      "blaze_rod": "2024-12-01 05:33:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-01 05:37:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-01 06:03:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 06:06:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-01 06:10:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-01 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-01 06:19:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-01 06:25:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-12-01 06:27:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-12-01 06:28:36 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-12-01 06:29:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-01 06:38:28 +0000"
     },
     "done": true
   },
@@ -543,15 +548,52 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "lootr:100loot": {
     "criteria": {
-      "blaze_rod": "2024-12-01 05:33:57 +0000"
+      "loot_stat": "2024-12-01 06:43:14 +0000"
     },
     "done": true
   },
-  "apotheosis:enchanting/30ench": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "enchanted_item": "2024-12-01 09:31:15 +0000"
+      "has_warp_scroll": "2024-12-01 06:45:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000",
+      "flower": "2024-12-01 07:08:39 +0000"
     },
     "done": true
   },
@@ -567,33 +609,75 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
+  "vampirism:vampire/resurrect": {
     "criteria": {
-      "diamond_chestplate": "2024-12-01 06:19:51 +0000"
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2024-12-01 07:06:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-01 07:12:20 +0000"
     },
     "done": true
   },
-  "minecolonies:production/root": {
+  "vampirism:hunter/betrayal": {
     "criteria": {
-      "builders_hut": "2024-12-01 09:39:44 +0000"
+      "kill": "2024-12-01 07:13:38 +0000"
     },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2024-12-01 06:25:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/root": {
-    "criteria": {
-      "main": "2024-12-01 06:28:36 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecolonies:minecolonies/citizen_eat_food_first": {
     "criteria": {
       "citizen_eat_anything": "2024-12-01 07:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-01 07:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-01 07:38:25 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-01 07:40:42 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2024-12-01 07:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-01 07:41:38 +0000"
     },
     "done": true
   },
@@ -603,9 +687,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecolonies:minecolonies/colony_population_5": {
     "criteria": {
-      "slept_in_bed": "2024-12-01 02:46:53 +0000"
+      "population_5": "2024-12-01 07:43:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-01 09:28:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2024-12-01 09:31:15 +0000"
     },
     "done": true
   },
@@ -615,99 +711,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "minecolonies:production/root": {
     "criteria": {
-      "fighting_nightmares_0": "2024-12-01 03:08:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2024-12-01 02:46:02 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/bone": {
-    "criteria": {
-      "has_item": "2024-12-01 02:40:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-01 10:25:25 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2024-12-01 06:45:04 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-01 04:38:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-01 02:55:46 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-01 06:43:14 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2024-12-01 09:28:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2024-12-01 02:59:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-01 06:38:28 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2024-12-01 07:06:17 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2024-12-01 02:42:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2024-12-01 10:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/start_builder": {
-    "criteria": {
-      "builder_request": "2024-12-01 05:19:29 +0000"
+      "builders_hut": "2024-12-01 09:39:44 +0000"
     },
     "done": true
   },
@@ -717,33 +723,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "coded_trigger": "2024-12-01 02:52:10 +0000"
+      "coded_trigger": "2024-12-01 09:50:33 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "vampirism:hunter/technology": {
     "criteria": {
-      "the_wind_darkening_0": "2024-12-01 06:03:49 +0000"
+      "advanced": "2024-12-01 09:52:28 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-01 10:24:53 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "bestiary": "2024-12-01 03:09:34 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/colony_population_5": {
-    "criteria": {
-      "population_5": "2024-12-01 07:43:48 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-12-01 06:19:27 +0000"
+      "coded_trigger": "2024-12-01 10:25:25 +0000"
     },
     "done": true
   },

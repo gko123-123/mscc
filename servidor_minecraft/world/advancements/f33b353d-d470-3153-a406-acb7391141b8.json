@@ -659,7 +659,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-03 06:52:50 +0000",
       "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000",
-      "minecraft:soul_sand_valley": "2024-12-03 07:27:25 +0000"
+      "minecraft:soul_sand_valley": "2024-12-03 07:27:25 +0000",
+      "minecraft:basalt_deltas": "2024-12-03 07:38:50 +0000"
     },
     "done": false
   },
@@ -804,6 +805,12 @@
   "tombstone:adventure/enchant_fishing_rod": {
     "criteria": {
       "has_fishing_rod": "2024-12-03 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-12-03 07:40:24 +0000"
     },
     "done": true
   },

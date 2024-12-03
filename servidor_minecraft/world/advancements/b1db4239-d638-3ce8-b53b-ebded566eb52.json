@@ -773,6 +773,13 @@
     },
     "done": true
   },
+  "tetra:upgrades/hammer_4": {
+    "criteria": {
+      "head_left": "2024-12-03 07:59:07 +0000",
+      "head_right": "2024-12-03 07:59:00 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2024-12-03 07:52:50 +0000"

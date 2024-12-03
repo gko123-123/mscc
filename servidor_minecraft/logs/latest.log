@@ -20967,3 +20967,52 @@ java.lang.Throwable: null
 [03Dec2024 07:58:38.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [03Dec2024 07:58:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
 [03Dec2024 07:58:59.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Dec2024 07:59:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has reached the goal [Hammer IV (Blackstone)]
+[03Dec2024 07:59:17.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
+[03Dec2024 07:59:35.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to jotze213]
+[03Dec2024 07:59:44.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Dec2024 08:00:16.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Dec2024 08:01:00.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[03Dec2024 08:01:17.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[03Dec2024 08:01:35.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [The trip ends but the adventure begins]
+[03Dec2024 08:01:42.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10163ms or 203 ticks behind
+[03Dec2024 08:01:52.616] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2057, y=-50, z=-3940}
+[03Dec2024 08:01:59.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2112, y=43, z=-3975} BlockPos{x=2112, y=44, z=-3975}
+[03Dec2024 08:02:10.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Dec2024 08:02:15.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17580ms or 351 ticks behind
+[03Dec2024 08:02:17.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2107, y=42, z=-3977} BlockPos{x=2107, y=43, z=-3977}
+[03Dec2024 08:02:45.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15109ms or 302 ticks behind
+[03Dec2024 08:02:51.822] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1955, y=-41, z=-3869}
+[03Dec2024 08:02:54.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[03Dec2024 08:02:57.842] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1936, y=21, z=-3945}
+[03Dec2024 08:02:57.866] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1948, y=-54, z=-3965}
+[03Dec2024 08:03:15.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15316ms or 306 ticks behind
+[03Dec2024 08:03:24.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2016, y=-49, z=-4169}
+[03Dec2024 08:03:37.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2180, y=-30, z=-4222}
+[03Dec2024 08:03:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported QUETEIMPORTA to jotze213]
+[03Dec2024 08:03:46.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15997ms or 319 ticks behind
+[03Dec2024 08:03:47.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 65.500000, 94.500000]
+[03Dec2024 08:03:48.462] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2265, y=-18, z=-4016}
+[03Dec2024 08:04:04.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[03Dec2024 08:04:19.878] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[03Dec2024 08:04:19.939] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 08:04:21.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA hit the ground too hard, they gave up
+[03Dec2024 08:04:21.327] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[03Dec2024 08:04:22.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[03Dec2024 08:04:27.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 892.500000, 66.500000, 121.500000]
+[03Dec2024 08:04:42.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[03Dec2024 08:05:01.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
+[03Dec2024 08:05:22.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6276ms or 125 ticks behind
+[03Dec2024 08:05:43.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6078ms or 121 ticks behind
+[03Dec2024 08:06:05.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7307ms or 146 ticks behind
+[03Dec2024 08:06:26.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5592ms or 111 ticks behind
+[03Dec2024 08:06:29.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1851, y=-51, z=-3992}
+[03Dec2024 08:06:48.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6980ms or 139 ticks behind
+[03Dec2024 08:07:09.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5743ms or 114 ticks behind
+[03Dec2024 08:07:28.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[03Dec2024 08:07:48.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4632ms or 92 ticks behind
+[03Dec2024 08:08:09.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
+[03Dec2024 08:08:18.977] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1864, y=30, z=-4184}
+[03Dec2024 08:08:30.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6616ms or 132 ticks behind
+[03Dec2024 08:08:50.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
+[03Dec2024 08:09:10.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind

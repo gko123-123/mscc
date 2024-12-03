@@ -770,6 +770,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-03 08:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-12-03 07:16:38 +0000"
@@ -839,6 +845,12 @@
   "tetra:upgrades/repairs": {
     "criteria": {
       "hammer": "2024-12-03 06:30:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-03 08:11:25 +0000"
     },
     "done": true
   },

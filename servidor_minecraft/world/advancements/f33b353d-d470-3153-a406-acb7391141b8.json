@@ -67,6 +67,7 @@
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
       "minecraft:river": "2024-12-01 02:33:43 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:00:28 +0000",
+      "minecraft:stony_shore": "2024-12-03 05:37:11 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:00:24 +0000",
       "minecraft:cold_ocean": "2024-12-01 02:58:36 +0000",
       "minecraft:forest": "2024-11-30 03:10:20 +0000",
@@ -744,6 +745,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-01 10:25:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-03 05:38:12 +0000"
     },
     "done": true
   },

@@ -591,46 +591,6 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/place_townhall": {
-    "criteria": {
-      "build_tool_place_town_hall": "2024-12-01 10:53:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_1": "2024-12-01 10:50:04 +0000",
-      "charm_collector_0": "2024-12-01 09:28:17 +0000",
-      "charm_collector_3": "2024-12-01 09:28:10 +0000",
-      "charm_collector_2": "2024-12-01 10:00:03 +0000"
-    },
-    "done": false
-  },
-  "tetra:upgrades/sword_improvement_hone": {
-    "criteria": {
-      "tempered": "2024-12-01 10:04:15 +0000",
-      "serrated": "2024-12-01 10:04:20 +0000"
-    },
-    "done": false
-  },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2024-12-01 10:26:21 +0000"
-    },
-    "done": false
-  },
-  "tetra:upgrades/shield_upgrade": {
-    "criteria": {
-      "module": "2024-12-01 08:40:07 +0000"
-    },
-    "done": true
-  },
-  "tetra:upgrades/bow_upgrade": {
-    "criteria": {
-      "module": "2024-12-01 10:19:11 +0000"
-    },
-    "done": true
-  },
   "tetra:spelunking/find_scroll_warforge": {
     "criteria": {
       "find": "2024-12-01 08:02:35 +0000"
@@ -643,34 +603,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-01 10:47:16 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:production/root": {
-    "criteria": {
-      "builders_hut": "2024-12-01 09:39:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-01 10:19:42 +0000"
-    },
-    "done": true
-  },
   "minecolonies:minecolonies/fulfill_request": {
     "criteria": {
       "click_gui_button_fulfill": "2024-12-01 08:25:01 +0000"
     },
     "done": true
   },
-  "tetra:upgrades/hammer_3": {
+  "tetra:upgrades/shield_upgrade": {
     "criteria": {
-      "head_left": "2024-12-01 09:35:58 +0000",
-      "head_right": "2024-12-01 09:35:53 +0000"
+      "module": "2024-12-01 08:40:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 08:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-12-01 08:48:10 +0000"
     },
     "done": true
   },
@@ -686,9 +639,25 @@
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "coded_trigger": "2024-12-01 08:46:21 +0000"
+      "charm_collector_1": "2024-12-01 10:50:04 +0000",
+      "charm_collector_0": "2024-12-01 09:28:17 +0000",
+      "charm_collector_3": "2024-12-01 09:28:10 +0000",
+      "charm_collector_2": "2024-12-01 10:00:03 +0000"
+    },
+    "done": false
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2024-12-01 09:35:58 +0000",
+      "head_right": "2024-12-01 09:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-12-01 09:39:44 +0000"
     },
     "done": true
   },
@@ -698,9 +667,40 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/colony_population_5": {
+  "tetra:upgrades/sword_improvement_hone": {
     "criteria": {
-      "population_5": "2024-12-01 08:48:10 +0000"
+      "tempered": "2024-12-01 10:04:15 +0000",
+      "serrated": "2024-12-01 10:04:20 +0000"
+    },
+    "done": false
+  },
+  "tetra:upgrades/bow_upgrade": {
+    "criteria": {
+      "module": "2024-12-01 10:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-01 10:19:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2024-12-01 10:26:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-01 10:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2024-12-01 10:53:31 +0000"
     },
     "done": true
   },

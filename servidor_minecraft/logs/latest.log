@@ -20398,3 +20398,225 @@ java.lang.NullPointerException: Element not found: amount
 [04Dec2024 02:31:02.047] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:technomancer/technomancers_curse_less_hearts] from power ResourceKey[apoli:configured_power / origins-plus-plus:technomancer/technomancers_curse]
 [04Dec2024 02:31:19.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
 [04Dec2024 02:31:39.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5525ms or 110 ticks behind
+[04Dec2024 02:32:02.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7983ms or 159 ticks behind
+[04Dec2024 02:32:21.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_helmet] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_leggings] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_boots] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_chestplate] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/big_scale] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/big]
+[04Dec2024 02:32:22.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/big_reset] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/big]
+[04Dec2024 02:32:22.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/item_levitation_immunity] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/item]
+[04Dec2024 02:32:22.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/item_prevent_elytra_equipping] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/item]
+[04Dec2024 02:32:22.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs_jump] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs]
+[04Dec2024 02:32:22.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs_ice_slip] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount_grab] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount_mount] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_down] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_damage] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_resource] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_off] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[04Dec2024 02:32:22.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong_knockback_deal] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong_damage] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy_mining_speed] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy_knockback] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_2] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_0] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall_damage_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:22.823] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_1] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[04Dec2024 02:32:39.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3424ms or 68 ticks behind
+[04Dec2024 02:32:59.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
+[04Dec2024 02:33:17.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[04Dec2024 02:33:20.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jotze213 lost connection: Disconnected
+[04Dec2024 02:33:20.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 left the game
+[04Dec2024 02:33:20.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxtrem123 lost connection: Disconnected
+[04Dec2024 02:33:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 left the game
+[04Dec2024 02:33:23.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Opened the "Origin" selection GUI for 1 players]
+[04Dec2024 02:33:43.411] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:33:43.554] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:33:43.554] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:33:43.554] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:33:43.696] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:33:43.697] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:33:43.697] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:33:43.839] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:33:43.839] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:33:43.840] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:33:43.981] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:33:43.982] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:33:48.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:33:52.939] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:33:53.299] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:33:53.305] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:33:53.725] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:33:56.157] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:34:06.962] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:34:06.971] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:34:06.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxtrem123[/127.178.206.171:44247] logged in with entity id 9829 at (875.2860524073012, 64.0, 114.29030458101742)
+[04Dec2024 02:34:06.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maxtrem123
+[04Dec2024 02:34:06.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maxtrem123
+[04Dec2024 02:34:06.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maxtrem123
+[04Dec2024 02:34:06.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maxtrem123
+[04Dec2024 02:34:06.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maxtrem123
+[04Dec2024 02:34:06.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maxtrem123
+[04Dec2024 02:34:06.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maxtrem123
+[04Dec2024 02:34:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 joined the game
+[04Dec2024 02:34:07.222] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Maxtrem123
+[04Dec2024 02:34:07.244] [Server thread/INFO] [Jade/]: Syncing config to Maxtrem123 (7945de91-a7b4-3933-b0b9-37cdce77720f)
+[04Dec2024 02:34:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Opened the "Origin" selection GUI for 1 players]
+[04Dec2024 02:34:36.174] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect_nearminions] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect]
+[04Dec2024 02:34:36.175] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect_minionless] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect]
+[04Dec2024 02:34:36.175] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_bar] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:34:36.175] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_respawn] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:34:36.175] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_recharge] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:34:49.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxtrem123 lost connection: Disconnected
+[04Dec2024 02:34:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 left the game
+[04Dec2024 02:34:55.928] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ca727af[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:50317) lost connection: Disconnected
+[04Dec2024 02:34:57.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Opened the "Origin" selection GUI for 1 players]
+[04Dec2024 02:35:01.380] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect_nearminions] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect]
+[04Dec2024 02:35:01.381] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect_minionless] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/disconnect]
+[04Dec2024 02:35:01.381] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_bar] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:35:01.381] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_respawn] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:35:01.381] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul_recharge] from power ResourceKey[apoli:configured_power / origins-plus-plus:deathsworn/soul]
+[04Dec2024 02:36:39.852] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:36:39.953] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:36:39.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:36:40.055] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:36:40.055] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:36:40.156] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:36:40.156] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:36:40.258] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:36:40.258] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:36:40.359] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:36:40.359] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:36:40.451] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:36:42.645] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:36:43.679] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:36:43.705] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:36:43.705] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:36:43.705] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:36:44.092] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:37:09.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1673c58[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:36007): Took too long to log in
+[04Dec2024 02:37:09.744] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1673c58[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:36007) lost connection: Took too long to log in
+[04Dec2024 02:37:09.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:37:51.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d8ecebe[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:33215) lost connection: Disconnected
+[04Dec2024 02:38:31.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@200fdaa2[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:59829) lost connection: Disconnected
+[04Dec2024 02:38:34.593] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:38:34.737] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:38:34.748] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:38:34.749] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:38:34.881] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:38:34.882] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:38:34.882] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:38:35.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:38:35.072] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:38:35.072] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:38:35.143] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:38:35.144] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:38:38.260] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:38:39.912] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:38:39.995] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:38:39.995] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:38:40.248] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:38:41.257] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:38:50.319] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:38:50.326] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:38:50.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxtrem123[/127.178.206.171:47513] logged in with entity id 10497 at (875.5375370053796, 64.0, 114.89860529684333)
+[04Dec2024 02:38:50.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maxtrem123
+[04Dec2024 02:38:50.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maxtrem123
+[04Dec2024 02:38:50.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maxtrem123
+[04Dec2024 02:38:50.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maxtrem123
+[04Dec2024 02:38:50.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maxtrem123
+[04Dec2024 02:38:50.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maxtrem123
+[04Dec2024 02:38:50.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maxtrem123
+[04Dec2024 02:38:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 joined the game
+[04Dec2024 02:38:50.599] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Maxtrem123
+[04Dec2024 02:38:50.619] [Server thread/INFO] [Jade/]: Syncing config to Maxtrem123 (7945de91-a7b4-3933-b0b9-37cdce77720f)
+[04Dec2024 02:38:59.079] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:38:59.178] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:38:59.278] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:38:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Dec2024 02:38:59.376] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:38:59.475] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:38:59.475] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:38:59.573] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:38:59.672] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:39:03.024] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:39:03.230] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:39:03.438] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:39:03.598] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:39:05.546] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:39:06.663] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:39:06.676] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:39:06.676] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:39:06.676] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:39:06.877] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:39:20.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6193ms or 123 ticks behind
+[04Dec2024 02:39:20.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxtrem123 lost connection: Timed out
+[04Dec2024 02:39:20.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 left the game
+[04Dec2024 02:39:35.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@60c60162[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:37455): Took too long to log in
+[04Dec2024 02:39:35.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60c60162[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:37455) lost connection: Took too long to log in
+[04Dec2024 02:39:35.309] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:39:50.920] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:39:51.019] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:39:51.118] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:39:51.139] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:39:51.217] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:39:51.231] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:39:51.317] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:39:51.318] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:39:51.416] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:39:51.417] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:39:51.515] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:39:51.556] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:39:52.751] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:39:52.893] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:39:52.913] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:39:52.913] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:39:53.036] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:39:53.036] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:39:53.036] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:39:53.178] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:39:53.178] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:39:53.181] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:39:53.279] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:39:53.314] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:39:53.560] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:39:54.555] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:39:54.596] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:39:54.596] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:39:54.708] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:39:54.981] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:39:56.296] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:39:57.721] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:39:57.749] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:39:57.750] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:39:57.844] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:39:58.410] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:40:05.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:40:05.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 02:40:05.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxtrem123[/127.178.206.171:56243] logged in with entity id 10578 at (875.5375370053796, 64.0, 114.89860529684333)
+[04Dec2024 02:40:05.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Maxtrem123
+[04Dec2024 02:40:05.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Maxtrem123
+[04Dec2024 02:40:05.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Maxtrem123
+[04Dec2024 02:40:05.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Maxtrem123
+[04Dec2024 02:40:05.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Maxtrem123
+[04Dec2024 02:40:05.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Maxtrem123
+[04Dec2024 02:40:05.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Maxtrem123
+[04Dec2024 02:40:05.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 joined the game
+[04Dec2024 02:40:05.864] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Maxtrem123
+[04Dec2024 02:40:05.883] [Server thread/INFO] [Jade/]: Syncing config to Maxtrem123 (7945de91-a7b4-3933-b0b9-37cdce77720f)
+[04Dec2024 02:40:21.487] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@36b0bafe[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:60469): Took too long to log in
+[04Dec2024 02:40:21.488] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36b0bafe[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:60469) lost connection: Took too long to log in
+[04Dec2024 02:40:21.539] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:40:39.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxtrem123 lost connection: Disconnected
+[04Dec2024 02:40:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxtrem123 left the game
+[04Dec2024 02:41:44.074] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[04Dec2024 02:41:44.131] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 02:41:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA burned to ashes, they gave up
+[04Dec2024 02:41:45.773] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 02:41:51.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 903.500000, 78.500000, 170.500000]
+[04Dec2024 02:41:57.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind

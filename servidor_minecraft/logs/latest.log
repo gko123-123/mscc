@@ -20620,3 +20620,158 @@ java.lang.NullPointerException: Element not found: amount
 [04Dec2024 02:41:45.773] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
 [04Dec2024 02:41:51.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 903.500000, 78.500000, 170.500000]
 [04Dec2024 02:41:57.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Dec2024 02:42:14.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[04Dec2024 02:42:33.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[04Dec2024 02:42:50.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[04Dec2024 02:43:14.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04Dec2024 02:43:34.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Dec2024 02:43:44.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Opened the "Origin" selection GUI for 1 players]
+[04Dec2024 02:43:56.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Dec2024 02:44:00.774] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51168bd5[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:40949) lost connection: Disconnected
+[04Dec2024 02:44:13.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[04Dec2024 02:44:32.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Dec2024 02:44:50.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[04Dec2024 02:44:57.285] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:44:57.387] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:44:57.489] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:44:57.489] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:44:57.591] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:44:57.693] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:44:57.725] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:44:57.795] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:44:57.795] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:44:57.896] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:44:57.897] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:44:57.998] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:44:59.995] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:45:00.975] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:45:00.980] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:45:00.981] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:45:01.046] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:45:01.368] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:45:11.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Dec2024 02:45:30.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5b3a6d04[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:57327): Took too long to log in
+[04Dec2024 02:45:30.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b3a6d04[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:57327) lost connection: Took too long to log in
+[04Dec2024 02:45:30.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:45:32.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Dec2024 02:45:52.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4556ms or 91 ticks behind
+[04Dec2024 02:46:11.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[04Dec2024 02:46:30.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4117ms or 82 ticks behind
+[04Dec2024 02:46:49.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[04Dec2024 02:47:09.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[04Dec2024 02:47:28.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4399ms or 87 ticks behind
+[04Dec2024 02:47:43.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QUETEIMPORTA lost connection: Disconnected
+[04Dec2024 02:47:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA left the game
+[04Dec2024 02:47:46.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[04Dec2024 02:49:40.593] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30060dc3[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:51289) lost connection: Disconnected
+[04Dec2024 02:50:18.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2956ef4d[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:58145) lost connection: Disconnected
+[04Dec2024 02:50:58.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52ebb24e[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:49863) lost connection: Disconnected
+[04Dec2024 02:51:48.045] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dabc753[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:44743) lost connection: Disconnected
+[04Dec2024 02:57:03.037] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:57:03.141] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:57:03.149] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:57:03.244] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:57:03.245] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:57:03.348] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:57:03.348] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:57:03.349] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:57:03.451] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:57:03.553] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:57:03.600] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:57:03.601] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:57:05.960] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:57:06.950] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:57:06.989] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:57:06.989] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:57:06.989] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:57:07.345] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:57:32.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@594b4894[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:39201): Took too long to log in
+[04Dec2024 02:57:32.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@594b4894[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:39201) lost connection: Took too long to log in
+[04Dec2024 02:57:32.937] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:57:38.757] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:57:38.859] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:57:38.859] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:57:38.960] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:57:39.000] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:57:39.062] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:57:39.085] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:57:39.164] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:57:39.265] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:57:39.266] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:57:39.356] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:57:39.356] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:57:41.596] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:57:42.589] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:57:42.596] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:57:42.636] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:57:42.636] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:57:42.999] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:58:08.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1d76909b[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:52165): Took too long to log in
+[04Dec2024 02:58:08.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d76909b[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:52165) lost connection: Took too long to log in
+[04Dec2024 02:58:08.686] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:58:18.093] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:58:18.194] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:58:18.194] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:58:18.296] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:58:18.297] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:58:18.398] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:58:18.499] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:58:18.535] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:58:18.535] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:58:18.600] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:58:18.600] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:58:18.690] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:58:20.888] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:58:21.888] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:58:21.894] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:58:21.894] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:58:21.936] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:58:22.521] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 02:58:47.993] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4bd1bb31[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:35535): Took too long to log in
+[04Dec2024 02:58:47.994] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bd1bb31[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:35535) lost connection: Took too long to log in
+[04Dec2024 02:58:48.043] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 02:59:24.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f004d22[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:49045) lost connection: Disconnected
+[04Dec2024 02:59:44.359] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 02:59:44.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 02:59:44.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 02:59:44.556] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 02:59:44.596] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 02:59:44.654] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 02:59:44.690] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 02:59:44.752] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 02:59:44.752] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 02:59:44.850] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 02:59:44.850] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 02:59:44.946] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 02:59:47.071] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 02:59:48.047] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 02:59:48.088] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 02:59:48.089] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 02:59:48.089] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 02:59:48.474] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 03:00:14.236] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@64db12ff[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:33999): Took too long to log in
+[04Dec2024 03:00:14.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64db12ff[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:33999) lost connection: Took too long to log in
+[04Dec2024 03:00:14.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 03:01:01.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13468e97[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:38633) lost connection: Disconnected
+[04Dec2024 03:01:40.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@201aa744[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:42137) lost connection: Disconnected
+[04Dec2024 03:01:50.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 03:01:50.720] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 03:01:50.751] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 03:01:50.822] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 03:01:50.822] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 03:01:50.924] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 03:01:50.949] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 03:01:51.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 03:01:51.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 03:01:51.127] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 03:01:51.168] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 03:01:51.191] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 03:01:53.372] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 03:01:54.382] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 03:01:54.389] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 03:01:54.389] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 03:01:54.432] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 03:01:54.835] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 03:02:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@652dc63b[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:59487): Took too long to log in
+[04Dec2024 03:02:20.485] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@652dc63b[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:59487) lost connection: Took too long to log in
+[04Dec2024 03:02:20.535] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

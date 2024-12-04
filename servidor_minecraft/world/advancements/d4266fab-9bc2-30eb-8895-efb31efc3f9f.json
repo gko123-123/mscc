@@ -975,5 +975,23 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-04 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-12-04 02:10:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-04 02:09:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

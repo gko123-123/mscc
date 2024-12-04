@@ -634,6 +634,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2024-12-04 03:01:05 +0000",
       "sugar_cane": "2024-12-01 07:31:18 +0000"
     },
     "done": false

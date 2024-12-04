@@ -21259,3 +21259,183 @@ java.lang.NullPointerException: Element not found: amount
 [04Dec2024 03:43:23.383] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
 [04Dec2024 03:43:23.384] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
 [04Dec2024 03:43:23.467] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 03:43:25.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Dec2024 03:43:25.739] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 03:43:26.761] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 03:43:26.763] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 03:43:26.763] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 03:43:26.763] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 03:43:27.184] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 03:43:43.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[04Dec2024 03:43:55.135] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 03:43:55.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 03:43:55.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jotze213[/127.111.211.124:53589] logged in with entity id 20807 at (989.0549174106435, 73.0, 317.14698111862396)
+[04Dec2024 03:43:55.143] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jotze213
+[04Dec2024 03:43:55.143] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jotze213
+[04Dec2024 03:43:55.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jotze213
+[04Dec2024 03:43:55.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jotze213
+[04Dec2024 03:43:55.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jotze213
+[04Dec2024 03:43:55.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jotze213
+[04Dec2024 03:43:55.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jotze213
+[04Dec2024 03:43:55.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 joined the game
+[04Dec2024 03:43:55.421] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: jotze213
+[04Dec2024 03:43:55.440] [Server thread/INFO] [Jade/]: Syncing config to jotze213 (b1db4239-d638-3ce8-b53b-ebded566eb52)
+[04Dec2024 03:44:03.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5241ms or 104 ticks behind
+[04Dec2024 03:44:25.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6935ms or 138 ticks behind
+[04Dec2024 03:44:47.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6412ms or 128 ticks behind
+[04Dec2024 03:45:07.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5713ms or 114 ticks behind
+[04Dec2024 03:45:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to QUETEIMPORTA]
+[04Dec2024 03:45:28.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[04Dec2024 03:45:31.744] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[04Dec2024 03:45:31.777] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:45:33.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Nightmare Stalker, they gave up
+[04Dec2024 03:45:33.085] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:45:46.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[04Dec2024 03:45:48.021] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[04Dec2024 03:45:48.091] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:45:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Lifestealer, they gave up
+[04Dec2024 03:45:49.308] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:45:51.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jotze213 lost connection: Disconnected
+[04Dec2024 03:45:51.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 left the game
+[04Dec2024 03:46:07.407] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[04Dec2024 03:46:07.468] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:46:08.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Lifestealer, they gave up
+[04Dec2024 03:46:08.734] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:46:25.378] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[04Dec2024 03:46:25.438] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:46:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Lifestealer, they gave up
+[04Dec2024 03:46:26.568] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[04Dec2024 03:46:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 65.500000, 94.500000]
+[04Dec2024 03:46:54.911] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7683714f[id=<null>,name=jotze213,properties={},legacy=false] (/127.111.211.124:55371) lost connection: Disconnected
+[04Dec2024 03:46:56.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Dec2024 03:47:00.443] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Dec2024 03:47:00.547] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Dec2024 03:47:00.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Dec2024 03:47:00.652] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Dec2024 03:47:00.755] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Dec2024 03:47:00.796] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Dec2024 03:47:00.859] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Dec2024 03:47:00.860] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Dec2024 03:47:00.963] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Dec2024 03:47:00.964] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Dec2024 03:47:01.067] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Dec2024 03:47:01.149] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Dec2024 03:47:03.383] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Dec2024 03:47:04.414] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Dec2024 03:47:04.423] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Dec2024 03:47:04.423] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Dec2024 03:47:04.464] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Dec2024 03:47:04.875] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Dec2024 03:47:13.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[04Dec2024 03:47:30.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[04Dec2024 03:47:32.402] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 03:47:32.409] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Dec2024 03:47:32.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jotze213[/127.111.211.124:40339] logged in with entity id 21488 at (1012.2091271773858, 69.0, 318.4552235892816)
+[04Dec2024 03:47:32.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jotze213
+[04Dec2024 03:47:32.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jotze213
+[04Dec2024 03:47:32.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jotze213
+[04Dec2024 03:47:32.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jotze213
+[04Dec2024 03:47:32.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jotze213
+[04Dec2024 03:47:32.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jotze213
+[04Dec2024 03:47:32.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jotze213
+[04Dec2024 03:47:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 joined the game
+[04Dec2024 03:47:32.640] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: jotze213
+[04Dec2024 03:47:32.660] [Server thread/INFO] [Jade/]: Syncing config to jotze213 (b1db4239-d638-3ce8-b53b-ebded566eb52)
+[04Dec2024 03:47:53.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7760ms or 155 ticks behind
+[04Dec2024 03:48:14.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6231ms or 124 ticks behind
+[04Dec2024 03:48:36.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6590ms or 131 ticks behind
+[04Dec2024 03:49:00.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8945ms or 178 ticks behind
+[04Dec2024 03:49:23.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8128ms or 162 ticks behind
+[04Dec2024 03:49:35.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jotze213 lost connection: Disconnected
+[04Dec2024 03:49:35.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 left the game
+[04Dec2024 03:49:44.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6303ms or 126 ticks behind
+[04Dec2024 03:49:53.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: QUETEIMPORTA lost connection: Disconnected
+[04Dec2024 03:49:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA left the game
+[04Dec2024 03:50:15.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Disconnected
+[04Dec2024 03:50:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[04Dec2024 03:50:20.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Dec2024 03:50:20.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 03:50:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 03:50:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 03:50:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 03:50:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:amalthea_orbit
+[04Dec2024 03:50:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[04Dec2024 03:50:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:adrastea_orbit
+[04Dec2024 03:50:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 03:50:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[04Dec2024 03:50:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 03:50:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[04Dec2024 03:50:21.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[04Dec2024 03:50:21.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:saturn
+[04Dec2024 03:50:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/macabre:the_pit
+[04Dec2024 03:50:21.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[04Dec2024 03:50:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:saturn_orbit
+[04Dec2024 03:50:21.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:thebe
+[04Dec2024 03:50:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:phobos_orbit
+[04Dec2024 03:50:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:phobos
+[04Dec2024 03:50:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[04Dec2024 03:50:21.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:neptune_orbit
+[04Dec2024 03:50:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:uranus
+[04Dec2024 03:50:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:thebe_orbit
+[04Dec2024 03:50:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:deimos
+[04Dec2024 03:50:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[04Dec2024 03:50:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:uranus_orbit
+[04Dec2024 03:50:21.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Dec2024 03:50:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[04Dec2024 03:50:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[04Dec2024 03:50:21.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:adrastea
+[04Dec2024 03:50:21.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:jupiter_orbit
+[04Dec2024 03:50:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[04Dec2024 03:50:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[04Dec2024 03:50:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:amalthea
+[04Dec2024 03:50:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[04Dec2024 03:50:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[04Dec2024 03:50:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:jupiter
+[04Dec2024 03:50:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:neptune
+[04Dec2024 03:50:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[04Dec2024 03:50:21.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:metis_orbit
+[04Dec2024 03:50:21.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:deimos_orbit
+[04Dec2024 03:50:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[04Dec2024 03:50:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/adastraextra:metis
+[04Dec2024 03:50:21.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (amalthea_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (adrastea_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (saturn): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_pit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (saturn_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (thebe): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos_orbit): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (phobos): All chunks are saved
+[04Dec2024 03:50:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neptune_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (uranus): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (thebe_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (uranus_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (adrastea): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jupiter_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (amalthea): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04Dec2024 03:50:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jupiter): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (neptune): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (metis_orbit): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deimos_orbit): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (metis): All chunks are saved
+[04Dec2024 03:50:21.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 03:50:21.606] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@6a5d9d3c

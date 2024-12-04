@@ -801,9 +801,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "tamed_animal": "2024-12-03 08:59:43 +0000"
+      "cave_map": "2024-12-03 08:36:36 +0000"
     },
     "done": true
   },
@@ -813,9 +813,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "cave_map": "2024-12-03 08:36:36 +0000"
+      "tamed_animal": "2024-12-03 08:59:43 +0000"
     },
     "done": true
   },

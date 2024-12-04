@@ -981,6 +981,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-04 02:14:57 +0000"
+    },
+    "done": true
+  },
   "create:portable_storage_interface": {
     "criteria": {
       "0": "2024-12-04 02:10:45 +0000"

@@ -22351,3 +22351,67 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 05:35:04.645] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Dec2024 05:35:04.646] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Dec2024 05:35:04.646] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Dec2024 05:35:18.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11185ms or 223 ticks behind
+[05Dec2024 05:35:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to -197.500000, 52.500000, -67.500000]
+[05Dec2024 05:35:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to -195.500000, 52.500000, 6.500000]
+[05Dec2024 05:35:45.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12567ms or 251 ticks behind
+[05Dec2024 05:35:57.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to gko123]
+[05Dec2024 05:36:08.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7678ms or 153 ticks behind
+[05Dec2024 05:36:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 984.500000, 81.500000, 308.500000]
+[05Dec2024 05:36:28.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5782ms or 115 ticks behind
+[05Dec2024 05:36:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1082.500000, 87.500000, 248.500000]
+[05Dec2024 05:36:53.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9407ms or 188 ticks behind
+[05Dec2024 05:37:17.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9448ms or 188 ticks behind
+[05Dec2024 05:37:45.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12684ms or 253 ticks behind
+[05Dec2024 05:38:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1193.500000, 33.500000, 1363.500000]
+[05Dec2024 05:38:09.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1148.500000, 36.500000, 1420.500000]
+[05Dec2024 05:38:11.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10972ms or 219 ticks behind
+[05Dec2024 05:38:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1121.500000, 37.500000, 1527.500000]
+[05Dec2024 05:38:37.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11035ms or 220 ticks behind
+[05Dec2024 05:38:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1081.500000, 32.500000, 1643.500000]
+[05Dec2024 05:38:53.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1101.500000, 25.500000, 1716.500000]
+[05Dec2024 05:39:03.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10809ms or 216 ticks behind
+[05Dec2024 05:39:25.758] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=925, y=95, z=117} of type guardtower
+[05Dec2024 05:39:28.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10266ms or 205 ticks behind
+[05Dec2024 05:39:45.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has completed the challenge [Return to Sender]
+[05Dec2024 05:39:48.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=990, y=37, z=1996}
+[05Dec2024 05:39:48.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=990, y=46, z=1999}
+[05Dec2024 05:39:55.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12092ms or 241 ticks behind
+[05Dec2024 05:40:19.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9293ms or 185 ticks behind
+[05Dec2024 05:40:45.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10841ms or 216 ticks behind
+[05Dec2024 05:41:05.079] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[05Dec2024 05:41:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 1057.500000, 33.500000, 1906.500000]
+[05Dec2024 05:41:13.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12606ms or 252 ticks behind
+[05Dec2024 05:41:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 986.500000, 34.500000, 1985.500000]
+[05Dec2024 05:41:38.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10623ms or 212 ticks behind
+[05Dec2024 05:41:50.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 919.500000, 34.500000, 2087.500000]
+[05Dec2024 05:42:04.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11147ms or 222 ticks behind
+[05Dec2024 05:42:19.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 867.500000, 34.500000, 2167.500000]
+[05Dec2024 05:42:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 825.500000, 34.500000, 2176.500000]
+[05Dec2024 05:42:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 811.500000, 35.500000, 2222.500000]
+[05Dec2024 05:42:38.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18710ms or 374 ticks behind
+[05Dec2024 05:42:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 745.500000, 38.500000, 2231.500000]
+[05Dec2024 05:42:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 722.500000, 37.500000, 2311.500000]
+[05Dec2024 05:42:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has completed the challenge [Hot Tourist Destinations]
+[05Dec2024 05:43:05.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11943ms or 238 ticks behind
+[05Dec2024 05:43:06.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 632.500000, 37.500000, 2312.500000]
+[05Dec2024 05:43:19.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 599.500000, 48.500000, 2421.500000]
+[05Dec2024 05:43:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 631.500000, 48.500000, 2498.500000]
+[05Dec2024 05:43:34.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14237ms or 284 ticks behind
+[05Dec2024 05:43:39.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 573.500000, 48.500000, 2529.500000]
+[05Dec2024 05:43:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 562.500000, 38.500000, 2534.500000]
+[05Dec2024 05:43:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 540.500000, 40.500000, 2613.500000]
+[05Dec2024 05:44:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 115.500000, 34.500000, -57.500000]
+[05Dec2024 05:44:05.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15703ms or 314 ticks behind
+[05Dec2024 05:44:07.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 541.500000, 37.500000, 2686.500000]
+[05Dec2024 05:44:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 495.500000, 38.500000, 2766.500000]
+[05Dec2024 05:44:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 114.500000, 86.500000, -39.500000]
+[05Dec2024 05:44:26.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 403.500000, 34.500000, 2824.500000]
+[05Dec2024 05:44:30.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10674ms or 213 ticks behind
+[05Dec2024 05:44:41.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 446.500000, 35.500000, 2909.500000]
+[05Dec2024 05:44:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 453.500000, 34.500000, 2954.500000]
+[05Dec2024 05:44:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 483.500000, 36.500000, 3018.500000]
+[05Dec2024 05:44:58.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12473ms or 249 ticks behind
+[05Dec2024 05:45:03.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 fell from a high place
+[05Dec2024 05:45:03.835] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[05Dec2024 05:45:24.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11399ms or 227 ticks behind

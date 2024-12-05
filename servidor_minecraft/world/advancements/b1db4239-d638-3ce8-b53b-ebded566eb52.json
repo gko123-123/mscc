@@ -819,5 +819,17 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2024-12-05 02:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2024-12-05 02:45:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

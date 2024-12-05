@@ -919,5 +919,11 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2024-12-05 05:06:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

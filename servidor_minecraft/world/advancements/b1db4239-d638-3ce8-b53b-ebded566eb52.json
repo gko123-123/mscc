@@ -41,6 +41,7 @@
       "minecraft:taiga": "2024-12-01 05:48:52 +0000",
       "minecraft:deep_ocean": "2024-12-03 09:09:45 +0000",
       "minecraft:frozen_river": "2024-12-01 03:09:14 +0000",
+      "quark:glimmering_weald": "2024-12-05 05:06:25 +0000",
       "minecraft:cherry_grove": "2024-12-01 04:53:30 +0000",
       "minecraft:sunflower_plains": "2024-12-03 09:00:21 +0000",
       "minecraft:birch_forest": "2024-12-03 09:03:41 +0000",
@@ -874,6 +875,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2024-12-05 04:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2024-12-05 05:06:09 +0000"
     },
     "done": true
   },

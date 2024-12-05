@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-05 05:48:37 +0000",
       "minecraft:skeleton": "2024-11-30 04:21:25 +0000",
       "minecraft:vindicator": "2024-12-04 02:18:04 +0000",
       "minecraft:spider": "2024-11-30 03:47:00 +0000",
@@ -110,6 +111,7 @@
       "minecraft:creeper": "2024-12-01 02:40:39 +0000",
       "minecraft:phantom": "2024-12-01 08:32:27 +0000",
       "minecraft:witch": "2024-12-05 03:07:46 +0000",
+      "minecraft:wither_skeleton": "2024-12-05 05:47:12 +0000",
       "minecraft:husk": "2024-12-01 09:50:13 +0000",
       "minecraft:cave_spider": "2024-12-01 06:14:12 +0000",
       "minecraft:piglin": "2024-12-03 07:17:44 +0000",
@@ -669,9 +671,10 @@
       "minecraft:crimson_forest": "2024-12-03 06:52:50 +0000",
       "minecraft:nether_wastes": "2024-12-01 07:24:28 +0000",
       "minecraft:soul_sand_valley": "2024-12-03 07:27:25 +0000",
-      "minecraft:basalt_deltas": "2024-12-03 07:38:50 +0000"
+      "minecraft:basalt_deltas": "2024-12-03 07:38:50 +0000",
+      "minecraft:warped_forest": "2024-12-05 05:42:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
@@ -928,6 +931,12 @@
   "minecolonies:minecolonies/build_tavern": {
     "criteria": {
       "tavern": "2024-12-05 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-05 05:46:57 +0000"
     },
     "done": true
   },

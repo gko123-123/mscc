@@ -63,6 +63,7 @@
     "criteria": {
       "minecraft:taiga": "2024-11-30 03:55:38 +0000",
       "minecraft:frozen_river": "2024-12-01 03:22:44 +0000",
+      "quark:glimmering_weald": "2024-12-05 04:42:38 +0000",
       "minecraft:cherry_grove": "2024-12-01 04:54:05 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
       "minecraft:river": "2024-12-01 02:33:43 +0000",
@@ -897,6 +898,12 @@
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:void_blossom": "2024-12-05 03:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2024-12-05 04:46:44 +0000"
     },
     "done": true
   },

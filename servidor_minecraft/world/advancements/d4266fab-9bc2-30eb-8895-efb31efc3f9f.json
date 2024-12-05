@@ -1019,5 +1019,11 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2024-12-05 04:46:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

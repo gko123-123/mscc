@@ -941,6 +941,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-05 07:43:26 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_tavern": {
     "criteria": {
       "tavern": "2024-12-05 05:06:09 +0000"

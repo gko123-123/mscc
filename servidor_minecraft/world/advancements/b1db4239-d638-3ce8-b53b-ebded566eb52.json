@@ -47,6 +47,7 @@
       "minecraft:birch_forest": "2024-12-03 09:03:41 +0000",
       "minecraft:beach": "2024-11-30 04:07:14 +0000",
       "minecraft:dark_forest": "2024-12-03 09:03:19 +0000",
+      "minecraft:mangrove_swamp": "2024-12-05 06:46:29 +0000",
       "minecraft:sparse_jungle": "2024-12-03 08:36:31 +0000",
       "minecraft:river": "2024-12-01 02:36:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-03 09:09:09 +0000",
@@ -58,9 +59,11 @@
       "minecraft:cold_ocean": "2024-12-01 02:47:01 +0000",
       "minecraft:forest": "2024-11-30 03:58:47 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:58:48 +0000",
+      "minecraft:desert": "2024-12-05 06:46:16 +0000",
       "minecraft:jungle": "2024-12-03 09:08:39 +0000",
       "minecraft:ocean": "2024-12-03 08:36:00 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:01:20 +0000",
+      "minecraft:warm_ocean": "2024-12-05 06:46:02 +0000",
       "minecraft:flower_forest": "2024-12-03 09:00:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-03 08:43:55 +0000",
       "minecraft:deep_dark": "2024-12-05 03:16:29 +0000",
@@ -836,6 +839,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2024-12-05 06:53:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2024-12-05 06:51:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-12-05 06:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-05 03:57:20 +0000"
@@ -857,6 +878,12 @@
   "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
       "town_hall": "2024-12-05 04:46:44 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-12-05 06:49:10 +0000"
     },
     "done": true
   },
@@ -905,6 +932,12 @@
   "minecolonies:minecolonies/build_tavern": {
     "criteria": {
       "tavern": "2024-12-05 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-05 06:52:34 +0000"
     },
     "done": true
   },

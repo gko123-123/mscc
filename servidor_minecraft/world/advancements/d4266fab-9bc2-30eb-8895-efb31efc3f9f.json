@@ -1101,5 +1101,11 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-12-05 19:35:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -20054,3 +20054,9 @@ java.lang.NullPointerException: Element not found: amount
 [05Dec2024 19:11:56.112] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [05Dec2024 19:11:59.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
 [05Dec2024 19:26:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 8 [Cave Codex] to gko123]
+[05Dec2024 19:29:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 1 [Cave Biome Map] to gko123]
+[05Dec2024 19:29:29.435] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find minecraft: after 16s
+[05Dec2024 19:34:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 30 experience levels to gko123]
+[05Dec2024 19:35:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Eterna, Quanta, Arcana]
+[05Dec2024 19:36:39.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 2 experience levels to gko123]
+[05Dec2024 19:36:43.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 2 experience levels to gko123]

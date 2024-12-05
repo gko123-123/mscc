@@ -1,10 +1,10 @@
-[08:09:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[08:09:27] [INIT] Loaded plugins:
-[08:09:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[08:09:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[08:09:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[08:09:27] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
-[08:09:27] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[08:09:28] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[08:09:28] [INFO] Loaded script startup_scripts:example.js in 0.108 s
-[08:09:28] [INFO] Loaded 1/1 KubeJS startup scripts in 0.76 s with 0 errors and 0 warnings
+[19:09:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:09:08] [INIT] Loaded plugins:
+[19:09:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:09:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:09:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:09:08] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[19:09:08] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:09:09] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[19:09:09] [INFO] Loaded script startup_scripts:example.js in 0.122 s
+[19:09:09] [INFO] Loaded 1/1 KubeJS startup scripts in 0.98 s with 0 errors and 0 warnings

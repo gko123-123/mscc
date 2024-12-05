@@ -1041,6 +1041,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-05 06:55:35 +0000"
+    },
+    "done": true
+  },
   "create:hand_crank_000": {
     "criteria": {
       "0": "2024-12-05 06:08:25 +0000"
@@ -1059,6 +1065,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2024-12-05 07:14:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 06:48:22 +0000"
@@ -1068,6 +1080,12 @@
   "create:copper_casing": {
     "criteria": {
       "0": "2024-12-05 05:27:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2024-12-05 06:59:21 +0000"
     },
     "done": true
   },

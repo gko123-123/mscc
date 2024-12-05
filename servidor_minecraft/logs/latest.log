@@ -22727,3 +22727,243 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Dec2024 07:14:01.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Bug Repellent]
 [05Dec2024 07:15:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
 [05Dec2024 07:16:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[05Dec2024 07:18:10.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[05Dec2024 07:18:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[05Dec2024 07:20:53.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Dec2024 07:21:18.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Dec2024 07:23:16.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Timed out
+[05Dec2024 07:23:16.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[05Dec2024 07:23:41.540] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Dec2024 07:23:41.682] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Dec2024 07:23:41.786] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Dec2024 07:23:41.880] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Dec2024 07:23:41.887] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Dec2024 07:23:41.975] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Dec2024 07:23:41.981] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Dec2024 07:23:42.074] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Dec2024 07:23:42.077] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Dec2024 07:23:42.169] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Dec2024 07:23:42.169] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Dec2024 07:23:42.221] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Dec2024 07:23:43.911] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Dec2024 07:23:45.466] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Dec2024 07:23:45.581] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Dec2024 07:23:45.582] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Dec2024 07:23:45.682] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Dec2024 07:23:46.542] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[05Dec2024 07:24:03.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:24:03.518] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:24:03.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/127.106.153.231:59433] logged in with entity id 68239 at (10678.246087269925, -21.0, 4653.362901518927)
+[05Dec2024 07:24:03.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[05Dec2024 07:24:03.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[05Dec2024 07:24:03.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[05Dec2024 07:24:03.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[05Dec2024 07:24:03.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[05Dec2024 07:24:03.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[05Dec2024 07:24:03.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[05Dec2024 07:24:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[05Dec2024 07:24:03.844] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[05Dec2024 07:24:03.876] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[05Dec2024 07:24:22.795] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:24:29.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:24:31.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:24:32.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:24:45.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:00.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:06.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:11.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:12.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:13.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:15.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:16.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:17.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:21.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:22.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:23.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:30.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:35.169] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:38.282] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:39.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:46.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:51.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:25:54.528] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:06.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:06.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:07.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:09.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:11.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:11.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:11.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:22.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[05Dec2024 07:26:27.229] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:33.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Timed out
+[05Dec2024 07:26:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[05Dec2024 07:26:36.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:36.473] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:37.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:47.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:48.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:49.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:26:56.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:27:15.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:27:16.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:27:22.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:27:27.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Dec2024 07:27:50.616] [IO-Worker-205/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [651, 268]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1628) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23397!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05Dec2024 07:28:40.066] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Dec2024 07:28:40.161] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Dec2024 07:28:40.161] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Dec2024 07:28:40.256] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Dec2024 07:28:40.257] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Dec2024 07:28:40.355] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Dec2024 07:28:40.355] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Dec2024 07:28:40.451] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Dec2024 07:28:40.452] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Dec2024 07:28:40.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Dec2024 07:28:40.645] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Dec2024 07:28:40.645] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Dec2024 07:28:42.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Dec2024 07:28:44.087] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Dec2024 07:28:44.165] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Dec2024 07:28:44.166] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Dec2024 07:28:44.261] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Dec2024 07:28:45.134] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[05Dec2024 07:29:06.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:29:06.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:29:06.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/127.106.153.231:58869] logged in with entity id 73498 at (10680.421544731964, -21.0, 4649.724809837638)
+[05Dec2024 07:29:06.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[05Dec2024 07:29:06.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[05Dec2024 07:29:06.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[05Dec2024 07:29:06.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[05Dec2024 07:29:06.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[05Dec2024 07:29:06.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[05Dec2024 07:29:06.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[05Dec2024 07:29:06.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[05Dec2024 07:29:06.456] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[05Dec2024 07:29:06.491] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[05Dec2024 07:29:09.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 07:30:07.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Dec2024 07:30:09.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/74035, l='ServerLevel[world]', x=10771.50, y=46.00, z=4763.50]
+[05Dec2024 07:30:19.152] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/74082, l='ServerLevel[world]', x=10763.50, y=49.00, z=4774.50]
+[05Dec2024 07:30:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[05Dec2024 07:30:31.994] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/74158, l='ServerLevel[world]', x=10771.50, y=46.00, z=4764.50]
+[05Dec2024 07:30:33.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=10515, y=-20, z=4918}
+[05Dec2024 07:30:48.792] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/74339, l='ServerLevel[world]', x=10765.50, y=45.00, z=4774.50]
+[05Dec2024 07:31:26.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[05Dec2024 07:31:36.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Timed out
+[05Dec2024 07:31:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[05Dec2024 07:33:03.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[05Dec2024 07:33:08.447] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Dec2024 07:33:08.548] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Dec2024 07:33:08.649] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Dec2024 07:33:08.650] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Dec2024 07:33:08.750] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Dec2024 07:33:08.751] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Dec2024 07:33:08.856] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Dec2024 07:33:08.857] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Dec2024 07:33:08.959] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Dec2024 07:33:08.960] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Dec2024 07:33:08.961] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Dec2024 07:33:09.050] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Dec2024 07:33:10.821] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Dec2024 07:33:12.673] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Dec2024 07:33:12.714] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Dec2024 07:33:12.714] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Dec2024 07:33:12.758] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Dec2024 07:33:13.690] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[05Dec2024 07:33:31.133] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:33:31.149] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:33:31.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/127.106.153.231:56109] logged in with entity id 75264 at (10667.861615653002, -39.0, 4728.423651760628)
+[05Dec2024 07:33:31.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[05Dec2024 07:33:31.163] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[05Dec2024 07:33:31.164] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[05Dec2024 07:33:31.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[05Dec2024 07:33:31.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[05Dec2024 07:33:31.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[05Dec2024 07:33:31.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[05Dec2024 07:33:31.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[05Dec2024 07:33:31.594] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[05Dec2024 07:33:31.615] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[05Dec2024 07:33:31.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[05Dec2024 07:33:51.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[05Dec2024 07:35:12.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[05Dec2024 07:35:22.030] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=252, y=72, z=170}
+[05Dec2024 07:36:01.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Timed out
+[05Dec2024 07:36:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[05Dec2024 07:36:13.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=10626, y=-17, z=5004}
+[05Dec2024 07:37:13.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75932, l='ServerLevel[world]', x=10726.99, y=57.93, z=4976.15]
+[05Dec2024 07:37:13.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75933, l='ServerLevel[world]', x=10726.04, y=57.85, z=4976.46]
+[05Dec2024 07:37:13.967] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75934, l='ServerLevel[world]', x=10724.88, y=57.76, z=4976.21]
+[05Dec2024 07:37:13.967] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75935, l='ServerLevel[world]', x=10733.61, y=60.77, z=4976.07]
+[05Dec2024 07:37:13.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75936, l='ServerLevel[world]', x=10734.51, y=60.91, z=4976.11]
+[05Dec2024 07:37:13.969] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/75937, l='ServerLevel[world]', x=10735.11, y=60.91, z=4976.38]
+[05Dec2024 07:37:15.474] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Dec2024 07:37:15.580] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Dec2024 07:37:15.580] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Dec2024 07:37:15.685] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Dec2024 07:37:15.685] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Dec2024 07:37:15.800] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Dec2024 07:37:15.800] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Dec2024 07:37:15.905] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Dec2024 07:37:15.905] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Dec2024 07:37:16.009] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Dec2024 07:37:16.010] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Dec2024 07:37:16.059] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Dec2024 07:37:17.854] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Dec2024 07:37:19.529] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Dec2024 07:37:19.595] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Dec2024 07:37:19.598] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Dec2024 07:37:19.729] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Dec2024 07:37:20.619] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[05Dec2024 07:37:45.356] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2b428fd4[id=<null>,name=gko123,properties={},legacy=false] (/127.106.153.231:41129): Took too long to log in
+[05Dec2024 07:37:45.359] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b428fd4[id=<null>,name=gko123,properties={},legacy=false] (/127.106.153.231:41129) lost connection: Took too long to log in
+[05Dec2024 07:37:45.405] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 07:37:52.393] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Dec2024 07:37:52.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Dec2024 07:37:52.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Dec2024 07:37:52.630] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Dec2024 07:37:52.682] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Dec2024 07:37:52.682] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Dec2024 07:37:52.682] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Dec2024 07:37:52.777] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Dec2024 07:37:52.872] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Dec2024 07:37:52.967] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Dec2024 07:37:52.968] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Dec2024 07:37:53.030] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Dec2024 07:37:54.884] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Dec2024 07:37:56.426] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Dec2024 07:37:56.483] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Dec2024 07:37:56.484] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Dec2024 07:37:56.654] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Dec2024 07:37:57.442] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[05Dec2024 07:38:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 10443.500000, -33.500000, 4627.500000]
+[05Dec2024 07:38:19.049] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:38:19.055] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Dec2024 07:38:19.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/127.106.153.231:52863] logged in with entity id 76875 at (10667.861615653002, -39.0, 4728.423651760628)
+[05Dec2024 07:38:19.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[05Dec2024 07:38:19.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[05Dec2024 07:38:19.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[05Dec2024 07:38:19.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[05Dec2024 07:38:19.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[05Dec2024 07:38:19.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[05Dec2024 07:38:19.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[05Dec2024 07:38:19.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[05Dec2024 07:38:19.319] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[05Dec2024 07:38:19.340] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[05Dec2024 07:38:22.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

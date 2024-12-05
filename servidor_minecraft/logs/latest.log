@@ -20065,3 +20065,21 @@ java.lang.NullPointerException: Element not found: amount
 [05Dec2024 20:11:37.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Gave 10 [Bone] to gko123]
 [05Dec2024 20:17:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 892.500000, 70.500000, 188.500000]
 [05Dec2024 20:18:23.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 933.500000, 76.500000, 348.500000]
+[05Dec2024 20:20:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 751.500000, 73.500000, 238.500000]
+[05Dec2024 20:21:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 626.500000, 105.500000, 291.500000]
+[05Dec2024 20:21:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 619.500000, 101.500000, 287.500000]
+[05Dec2024 20:23:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 748.500000, 84.500000, 510.500000]
+[05Dec2024 20:24:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 979.500000, 72.500000, 277.500000]
+[05Dec2024 20:24:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 997.500000, 72.500000, 322.500000]
+[05Dec2024 20:24:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 876.500000, 80.500000, 442.500000]
+[05Dec2024 20:24:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 1020.500000, 94.500000, 438.500000]
+[05Dec2024 20:25:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 1009.500000, 82.500000, 373.500000]
+[05Dec2024 20:26:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 908.500000, 105.500000, 73.500000]
+[05Dec2024 20:27:49.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Junior Summoner]
+[05Dec2024 20:27:50.909] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=671, y=-49, z=-214}
+[05Dec2024 20:28:20.337] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=493, y=-52, z=-207}
+[05Dec2024 20:28:27.514] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=459, y=20, z=-201}
+[05Dec2024 20:28:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 511.500000, 72.500000, -27.500000]
+[05Dec2024 20:28:48.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 523.500000, 67.500000, -4.500000]
+[05Dec2024 20:29:05.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Vampire
+[05Dec2024 20:29:05.896] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved

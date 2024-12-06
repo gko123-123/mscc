@@ -1175,6 +1175,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 07:21:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-06 07:07:56 +0000"

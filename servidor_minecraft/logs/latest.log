@@ -20076,3 +20076,5 @@ java.lang.NullPointerException: Element not found: amount
 [06Dec2024 07:46:10.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 115.500000, 87.500000, -35.500000]
 [06Dec2024 07:49:04.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 113.500000, 86.500000, -50.500000]
 [06Dec2024 07:49:31.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 114.500000, 86.500000, -38.500000]
+[06Dec2024 07:58:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Magma Wheel]
+[06Dec2024 07:58:59.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Tapping the Mantle]

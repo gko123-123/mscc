@@ -1215,6 +1215,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2024-12-06 08:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2024-12-06 07:33:33 +0000"

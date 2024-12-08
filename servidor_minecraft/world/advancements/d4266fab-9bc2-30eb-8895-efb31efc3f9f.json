@@ -1301,6 +1301,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-12-08 05:00:46 +0000"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2024-12-08 04:36:42 +0000"

@@ -120,6 +120,7 @@
       "minecraft:piglin_brute": "2024-12-03 07:17:54 +0000",
       "minecraft:creeper": "2024-12-01 02:40:39 +0000",
       "minecraft:wither": "2024-12-07 06:40:33 +0000",
+      "quark:forgotten": "2024-12-08 06:16:37 +0000",
       "minecraft:phantom": "2024-12-01 08:32:27 +0000",
       "minecraft:zombified_piglin": "2024-12-07 04:53:36 +0000",
       "minecraft:witch": "2024-12-05 03:07:46 +0000",
@@ -1074,6 +1075,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-08 06:22:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-08 04:30:48 +0000"
@@ -1083,6 +1090,12 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-08 04:39:20 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-08 06:16:39 +0000"
     },
     "done": true
   },

@@ -1074,6 +1074,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/loot_ruins": {
+    "criteria": {
+      "platform_slab": "2024-12-08 06:17:46 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-08 05:36:13 +0000"

@@ -20859,3 +20859,34 @@ java.lang.NullPointerException: Element not found: amount
 [08Dec2024 06:17:52.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14112ms or 282 ticks behind
 [08Dec2024 06:18:20.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12592ms or 251 ticks behind
 [08Dec2024 06:18:47.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12475ms or 249 ticks behind
+[08Dec2024 06:19:15.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13116ms or 262 ticks behind
+[08Dec2024 06:19:41.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11163ms or 223 ticks behind
+[08Dec2024 06:20:08.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11786ms or 235 ticks behind
+[08Dec2024 06:20:35.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11690ms or 233 ticks behind
+[08Dec2024 06:21:02.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11776ms or 235 ticks behind
+[08Dec2024 06:21:30.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13960ms or 279 ticks behind
+[08Dec2024 06:21:59.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13476ms or 269 ticks behind
+[08Dec2024 06:22:24.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9701ms or 194 ticks behind
+[08Dec2024 06:22:34.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Once Upon a Cave]
+[08Dec2024 06:22:48.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9349ms or 186 ticks behind
+[08Dec2024 06:23:17.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13583ms or 271 ticks behind
+[08Dec2024 06:23:45.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13460ms or 269 ticks behind
+[08Dec2024 06:24:13.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13406ms or 268 ticks behind
+[08Dec2024 06:24:41.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12911ms or 258 ticks behind
+[08Dec2024 06:25:10.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14063ms or 281 ticks behind
+[08Dec2024 06:25:16.705] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47497, l='ServerLevel[world]', x=365.50, y=-8.00, z=1478.50]
+[08Dec2024 06:25:16.705] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47498, l='ServerLevel[world]', x=365.50, y=-7.00, z=1480.50]
+[08Dec2024 06:25:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[08Dec2024 06:25:24.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Rocks Off!]
+[08Dec2024 06:25:40.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14740ms or 294 ticks behind
+[08Dec2024 06:25:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 has made the advancement [Deep Extraction]
+[08Dec2024 06:26:10.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15147ms or 302 ticks behind
+[08Dec2024 06:26:38.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13092ms or 261 ticks behind
+[08Dec2024 06:26:53.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 189.500000, -24.500000, 1334.500000]
+[08Dec2024 06:27:04.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10799ms or 215 ticks behind
+[08Dec2024 06:27:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Shape of My Heart]
+[08Dec2024 06:27:28.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9055ms or 181 ticks behind
+[08Dec2024 06:27:55.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11874ms or 237 ticks behind
+[08Dec2024 06:28:20.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10592ms or 211 ticks behind
+[08Dec2024 06:28:51.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16014ms or 320 ticks behind
+[08Dec2024 06:28:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 68.500000, 18.500000, 1758.500000]

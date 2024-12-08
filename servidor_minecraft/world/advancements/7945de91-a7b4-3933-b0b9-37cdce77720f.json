@@ -134,5 +134,11 @@
     },
     "done": false
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 03:34:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

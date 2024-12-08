@@ -65,7 +65,10 @@
       "minecraft:frozen_river": "2024-12-01 03:22:44 +0000",
       "quark:glimmering_weald": "2024-12-05 04:42:38 +0000",
       "minecraft:cherry_grove": "2024-12-01 04:54:05 +0000",
+      "minecraft:birch_forest": "2024-12-07 04:28:40 +0000",
+      "minecraft:bamboo_jungle": "2024-12-07 04:32:23 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 04:13:39 +0000",
       "minecraft:river": "2024-12-01 02:33:43 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:00:28 +0000",
       "minecraft:stony_shore": "2024-12-03 05:37:11 +0000",
@@ -74,11 +77,13 @@
       "minecraft:forest": "2024-11-30 03:10:20 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:58:44 +0000",
       "minecraft:ocean": "2024-12-04 02:18:33 +0000",
+      "minecraft:jungle": "2024-12-07 04:15:13 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:00:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-03 08:02:55 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-03 08:22:37 +0000",
       "minecraft:deep_dark": "2024-12-04 02:22:01 +0000",
       "minecraft:meadow": "2024-12-03 08:14:59 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-07 03:56:48 +0000",
       "minecraft:plains": "2024-12-01 04:37:37 +0000"
     },
     "done": false
@@ -105,11 +110,15 @@
     "criteria": {
       "minecraft:blaze": "2024-12-05 05:48:37 +0000",
       "minecraft:skeleton": "2024-11-30 04:21:25 +0000",
+      "minecraft:ghast": "2024-12-07 04:55:43 +0000",
       "minecraft:vindicator": "2024-12-04 02:18:04 +0000",
+      "minecraft:magma_cube": "2024-12-07 05:05:42 +0000",
       "minecraft:spider": "2024-11-30 03:47:00 +0000",
       "minecraft:piglin_brute": "2024-12-03 07:17:54 +0000",
       "minecraft:creeper": "2024-12-01 02:40:39 +0000",
+      "minecraft:wither": "2024-12-07 06:40:33 +0000",
       "minecraft:phantom": "2024-12-01 08:32:27 +0000",
+      "minecraft:zombified_piglin": "2024-12-07 04:53:36 +0000",
       "minecraft:witch": "2024-12-05 03:07:46 +0000",
       "minecraft:wither_skeleton": "2024-12-05 05:47:12 +0000",
       "minecraft:husk": "2024-12-01 09:50:13 +0000",
@@ -278,6 +287,7 @@
     "criteria": {
       "cooked_beef": "2024-12-01 06:37:49 +0000",
       "apple": "2024-12-03 06:18:00 +0000",
+      "spider_eye": "2024-12-07 06:39:42 +0000",
       "bread": "2024-12-01 03:44:00 +0000",
       "golden_apple": "2024-12-01 06:20:59 +0000",
       "rotten_flesh": "2024-11-30 04:07:49 +0000"
@@ -619,9 +629,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2024-12-07 07:31:55 +0000",
       "main": "2024-12-01 07:06:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
@@ -904,27 +915,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-05 04:26:33 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
       "town_hall": "2024-12-05 04:46:44 +0000"
     },
     "done": true
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2024-12-05 05:33:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-05 04:50:32 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2024-12-05 04:26:33 +0000"
     },
     "done": true
   },
@@ -934,9 +939,135 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-05 05:33:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-05 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-12-07 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2024-12-07 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-07 04:25:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-07 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_gild": {
+    "criteria": {
+      "find": "2024-12-07 05:00:19 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-07 05:23:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-07 06:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-07 06:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-07 06:31:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2024-12-07 06:31:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-07 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-07 06:39:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 06:40:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-07 06:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-07 07:29:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-07 07:45:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-07 08:04:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-07 08:04:36 +0000"
     },
     "done": true
   },

@@ -20233,3 +20233,64 @@ java.lang.NullPointerException: Element not found: amount
 [08Dec2024 03:54:09.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6761ms or 135 ticks behind
 [08Dec2024 03:54:29.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
 [08Dec2024 03:54:50.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5370ms or 107 ticks behind
+[08Dec2024 03:55:11.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6259ms or 125 ticks behind
+[08Dec2024 03:55:30.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4025ms or 80 ticks behind
+[08Dec2024 03:55:40.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA sacrificed a bit too much LP
+[08Dec2024 03:55:40.613] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 03:55:50.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5185ms or 103 ticks behind
+[08Dec2024 03:56:10.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
+[08Dec2024 03:56:31.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6622ms or 132 ticks behind
+[08Dec2024 03:56:53.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7015ms or 140 ticks behind
+[08Dec2024 03:57:14.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
+[08Dec2024 03:57:35.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[08Dec2024 03:57:55.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
+[08Dec2024 03:57:57.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6870ms or 137 ticks behind
+[08Dec2024 03:58:19.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
+[08Dec2024 03:58:37.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [What a Deal!]
+[08Dec2024 03:58:40.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6023ms or 120 ticks behind
+[08Dec2024 03:58:59.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
+[08Dec2024 03:59:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 907.500000, 77.500000, 165.500000]
+[08Dec2024 03:59:19.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
+[08Dec2024 03:59:41.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6900ms or 138 ticks behind
+[08Dec2024 04:00:04.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7847ms or 156 ticks behind
+[08Dec2024 04:00:25.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[08Dec2024 04:00:46.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[08Dec2024 04:01:07.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6479ms or 129 ticks behind
+[08Dec2024 04:01:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
+[08Dec2024 04:01:28.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5843ms or 116 ticks behind
+[08Dec2024 04:01:49.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
+[08Dec2024 04:01:53.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 873.500000, -10.500000, 287.500000]
+[08Dec2024 04:02:02.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=971, y=73, z=244} BlockPos{x=881, y=-9, z=269}
+[08Dec2024 04:02:03.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 974.500000, 72.500000, 258.500000]
+[08Dec2024 04:02:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
+[08Dec2024 04:02:10.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
+[08Dec2024 04:02:14.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to QUETEIMPORTA]
+[08Dec2024 04:02:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
+[08Dec2024 04:02:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA was incinerated by Fire Dragon
+[08Dec2024 04:02:17.796] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:02:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was incinerated by Fire Dragon
+[08Dec2024 04:02:23.058] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[08Dec2024 04:02:29.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[08Dec2024 04:02:31.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to gko123]
+[08Dec2024 04:02:38.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[08Dec2024 04:02:46.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[08Dec2024 04:02:59.418] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[08Dec2024 04:02:59.446] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:03:00.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Fire Dragon, they gave up
+[08Dec2024 04:03:00.847] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:03:05.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[08Dec2024 04:03:17.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 62.500000, 112.500000]
+[08Dec2024 04:03:23.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
+[08Dec2024 04:03:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to QUETEIMPORTA]
+[08Dec2024 04:03:45.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6794ms or 135 ticks behind
+[08Dec2024 04:03:47.240] [Server thread/WARN] [tombstone/]: The death event of the player QUETEIMPORTA was canceled by another mod
+[08Dec2024 04:03:47.273] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:03:48.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Fire Dragon, they gave up
+[08Dec2024 04:03:48.482] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:04:08.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7772ms or 155 ticks behind
+[08Dec2024 04:04:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA was incinerated by Fire Dragon
+[08Dec2024 04:04:23.871] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:04:31.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7784ms or 155 ticks behind
+[08Dec2024 04:04:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was incinerated by Fire Dragon
+[08Dec2024 04:04:41.713] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[08Dec2024 04:04:52.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6848ms or 136 ticks behind

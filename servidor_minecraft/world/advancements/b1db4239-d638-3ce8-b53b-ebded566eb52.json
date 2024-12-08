@@ -1140,6 +1140,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/hammer_fix": {
+    "criteria": {
+      "fuel": "2024-12-08 07:15:19 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/hammer_remove": {
     "criteria": {
       "module": "2024-12-08 06:13:52 +0000"

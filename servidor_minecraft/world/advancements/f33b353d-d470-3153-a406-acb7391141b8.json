@@ -66,6 +66,7 @@
       "quark:glimmering_weald": "2024-12-05 04:42:38 +0000",
       "minecraft:cherry_grove": "2024-12-01 04:54:05 +0000",
       "minecraft:birch_forest": "2024-12-07 04:28:40 +0000",
+      "minecraft:windswept_hills": "2024-12-08 04:36:00 +0000",
       "minecraft:bamboo_jungle": "2024-12-07 04:32:23 +0000",
       "minecraft:beach": "2024-11-30 03:33:45 +0000",
       "minecraft:sparse_jungle": "2024-12-07 04:13:39 +0000",
@@ -73,6 +74,8 @@
       "minecraft:snowy_plains": "2024-12-01 03:00:28 +0000",
       "minecraft:stony_shore": "2024-12-03 05:37:11 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:00:24 +0000",
+      "minecraft:dripstone_caves": "2024-12-08 04:33:31 +0000",
+      "minecraft:swamp": "2024-12-08 04:38:01 +0000",
       "minecraft:cold_ocean": "2024-12-01 02:58:36 +0000",
       "minecraft:forest": "2024-11-30 03:10:20 +0000",
       "minecraft:frozen_ocean": "2024-12-01 02:58:44 +0000",
@@ -1068,6 +1071,18 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-07 08:04:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 04:30:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-08 04:39:20 +0000"
     },
     "done": true
   },

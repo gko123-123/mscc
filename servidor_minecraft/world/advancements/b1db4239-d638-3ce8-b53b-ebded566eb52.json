@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2024-12-08 06:25:49 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-08 04:38:43 +0000"

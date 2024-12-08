@@ -1081,9 +1081,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2024-12-08 06:25:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-08 04:30:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2024-12-08 06:25:24 +0000"
     },
     "done": true
   },
@@ -1108,6 +1120,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-08 03:58:37 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-08 06:27:09 +0000"
     },
     "done": true
   },

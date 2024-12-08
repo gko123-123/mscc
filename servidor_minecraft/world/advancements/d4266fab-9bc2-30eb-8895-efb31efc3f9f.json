@@ -1331,6 +1331,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-08 07:54:05 +0000"
+    },
+    "done": true
+  },
   "create:arm_many_targets": {
     "criteria": {
       "0": "2024-12-08 06:05:24 +0000"

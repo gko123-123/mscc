@@ -20341,3 +20341,62 @@ java.lang.NullPointerException: Element not found: amount
 [08Dec2024 04:15:07.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After QUETEIMPORTA was slain by Fire Dragon, they gave up
 [08Dec2024 04:15:08.012] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
 [08Dec2024 04:15:19.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3737ms or 74 ticks behind
+[08Dec2024 04:15:39.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4886ms or 97 ticks behind
+[08Dec2024 04:15:45.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA has made the advancement [Mother of Dragons]
+[08Dec2024 04:15:53.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 62.500000, 112.500000]
+[08Dec2024 04:15:57.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Dec2024 04:16:18.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5980ms or 119 ticks behind
+[08Dec2024 04:16:39.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[08Dec2024 04:16:59.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5272ms or 105 ticks behind
+[08Dec2024 04:17:19.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[08Dec2024 04:17:41.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
+[08Dec2024 04:18:04.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8295ms or 165 ticks behind
+[08Dec2024 04:18:28.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9065ms or 181 ticks behind
+[08Dec2024 04:18:49.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=853, y=23, z=297} BlockPos{x=852, y=24, z=299}
+[08Dec2024 04:18:52.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9219ms or 184 ticks behind
+[08Dec2024 04:19:04.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: QUETEIMPORTA sacrificed a bit too much LP
+[08Dec2024 04:19:04.624] [Server thread/INFO] [tombstone/]: The player QUETEIMPORTA has successfully been saved
+[08Dec2024 04:19:15.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7401ms or 148 ticks behind
+[08Dec2024 04:19:37.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
+[08Dec2024 04:20:05.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12677ms or 253 ticks behind
+[08Dec2024 04:20:31.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10529ms or 210 ticks behind
+[08Dec2024 04:20:54.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8188ms or 163 ticks behind
+[08Dec2024 04:21:16.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7781ms or 155 ticks behind
+[08Dec2024 04:21:17.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to QUETEIMPORTA]
+[08Dec2024 04:21:27.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to 871.500000, 62.500000, 112.500000]
+[08Dec2024 04:21:38.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6578ms or 131 ticks behind
+[08Dec2024 04:21:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 912.500000, 87.500000, 141.500000]
+[08Dec2024 04:21:59.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6114ms or 122 ticks behind
+[08Dec2024 04:22:19.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[08Dec2024 04:22:39.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4662ms or 93 ticks behind
+[08Dec2024 04:22:47.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gko123> xaero-waypoint:Shared Location:S:1029:106:-345:9:false:0:Internal-overworld-waypoints
+[08Dec2024 04:23:00.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5984ms or 119 ticks behind
+[08Dec2024 04:23:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to 1029.500000, 106.500000, -344.500000]
+[08Dec2024 04:23:23.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
+[08Dec2024 04:23:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 602.500000, 61.500000, 1048.500000]
+[08Dec2024 04:23:35.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gko123> xaero-waypoint:Shared Location:S:1099:170:83:6:false:0:Internal-overworld-waypoints
+[08Dec2024 04:23:37.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jotze213: Teleported jotze213 to QUETEIMPORTA]
+[08Dec2024 04:23:44.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6491ms or 129 ticks behind
+[08Dec2024 04:24:04.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4789ms or 95 ticks behind
+[08Dec2024 04:24:06.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Mary the Son of Herobrine'/14672, l='ServerLevel[world]', x=595.57, y=63.00, z=992.18] died: Mary the Son of Herobrine was slain by QUETEIMPORTA
+[08Dec2024 04:24:28.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9600ms or 192 ticks behind
+[08Dec2024 04:24:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [QUETEIMPORTA: Teleported QUETEIMPORTA to 570.500000, 66.500000, 1111.500000]
+[08Dec2024 04:24:37.219] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=484, y=-31, z=1206}
+[08Dec2024 04:24:37.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=487, y=31, z=1204}
+[08Dec2024 04:24:49.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=599, y=-35, z=1252}
+[08Dec2024 04:25:02.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=515, y=21, z=1328}
+[08Dec2024 04:25:03.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19944ms or 398 ticks behind
+[08Dec2024 04:25:13.100] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=638, y=28, z=1375}
+[08Dec2024 04:25:14.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:14.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[08Dec2024 04:25:19.548] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=519, y=-22, z=1381}

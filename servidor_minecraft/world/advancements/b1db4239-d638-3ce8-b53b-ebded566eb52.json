@@ -1071,5 +1071,11 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-12-08 04:13:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

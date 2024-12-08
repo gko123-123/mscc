@@ -1080,6 +1080,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-08 05:12:02 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-08 04:38:43 +0000"

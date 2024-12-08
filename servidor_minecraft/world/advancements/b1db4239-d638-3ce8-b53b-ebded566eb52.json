@@ -1128,6 +1128,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode_open": {
+    "criteria": {
+      "consume_geode": "2024-12-08 07:27:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-08 04:38:43 +0000"

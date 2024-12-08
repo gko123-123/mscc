@@ -33,13 +33,6 @@ boss_drop_chests = true
 #Range: > 0
 cloudBlockPrecipitationDistance = 32
 
-#Settings that are not reversible without consequences.
-["Dimension Settings"]
-	#If true, players spawning for the first time will spawn in the Twilight Forest.
-	newPlayersSpawnInTF = false
-	#If true, the return portal will spawn for new players that were sent to the TF if `spawn_in_tf` is true.
-	portalForNewPlayer = false
-
 #Settings for all things related to the uncrafting table.
 ["Uncrafting Table"]
 	#Multiplies the total XP cost of uncrafting an item and rounds up.
@@ -76,6 +69,13 @@ cloudBlockPrecipitationDistance = 32
 	#It is highly recommended to keep the table enabled as the mod has special uncrafting exclusive recipes, but the option remains for people that dont want the table to be functional at all.
 	#If you are looking to just prevent normal crafting recipes from being reversed, consider using the 'disableUncrafting' option instead.
 	disableUncraftingTable = false
+
+#Settings that are not reversible without consequences.
+["Dimension Settings"]
+	#If true, players spawning for the first time will spawn in the Twilight Forest.
+	newPlayersSpawnInTF = false
+	#If true, the return portal will spawn for new players that were sent to the TF if `spawn_in_tf` is true.
+	portalForNewPlayer = false
 
 #Settings for all things related to the magic trees.
 ["Magic Trees"]

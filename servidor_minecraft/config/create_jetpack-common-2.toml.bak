@@ -1,0 +1,8 @@
+speed = {}
+
+[air]
+	#Range: > 1
+	uses_per_tank = 2048
+	#Range: > 1
+	uses_per_tank_hover = 20480
+

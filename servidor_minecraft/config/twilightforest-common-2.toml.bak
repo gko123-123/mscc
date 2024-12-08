@@ -1,0 +1,13 @@
+#The dimension you can always travel to the Twilight Forest from, as well as the dimension you will return to. Defaults to the overworld. (domain:regname).
+originDimension = "minecraft:overworld"
+#Allow portals to the Twilight Forest to be made outside of the 'origin' dimension. May be considered an exploit.
+allowPortalsInOtherDimensions = false
+adminOnlyPortals = false
+
+#Settings that are not reversible without consequences.
+["Dimension Settings"]
+	#If true, players spawning for the first time will spawn in the Twilight Forest.
+	newPlayersSpawnInTF = false
+	#If true, the return portal will spawn for new players that were sent to the TF if `spawn_in_tf` is true.
+	portalForNewPlayer = false
+

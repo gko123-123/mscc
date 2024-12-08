@@ -1,4 +1,35 @@
 
+[vanilla-changes]
+	#percent chance of bastion having a cave tablet for magnetic caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	magnetic_tablet_loot_chance = 0.45
+	#percent chance of suspicious sand having a cave tablet for primordial caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	primordial_tablet_loot_chance = 0.15
+	#percent chance of jungle temple having a cave tablet for toxic caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	toxic_tablet_loot_chance = 0.5
+	#percent chance of underwater ruins having a cave tablet for abyssal chasm in its loot table:
+	#Range: 0.0 ~ 1.0
+	abyssal_tablet_loot_chance = 0.4
+	#percent chance of mansion having a cave tablet for forlorn hollows in its loot table:
+	#Range: 0.0 ~ 1.0
+	forlorn_tablet_loot_chance = 0.75
+	#percent chance of witch hut chest having a cave tablet for candy cavity in its loot table:
+	#Range: 0.0 ~ 1.0
+	candy_cavity_loot_chance = 0.9
+	#percent chance of abandoned mineshaft chests having a map to a nearby underground mineshaft in their loot table:
+	#Range: 0.0 ~ 1.0
+	cabin_map_loot_chance = 0.15
+	#Whether the Cartographer Villagers can sell maps to Underground Cabins.
+	cartographers_sell_cabin_maps = true
+	#Whether the Wandering Traders can sell maps to Underground Cabins.
+	wandering_traders_sell_cabin_maps = true
+	#Whether a loot chest is added to vanilla's witch huts. This is included to provide another place to find candy cavity biome cave tablets.
+	loot_chest_in_witch_huts = true
+	#Whether the Enchantments added by AC appear in vanilla loot tables.
+	enchantments_in_loot = false
+
 [item-behavior]
 	#True if one Cave Codex is all that is needed to unlock every Cave Compendium entry.
 	only_one_research_needed = false
@@ -84,35 +115,4 @@
 [potion-behavior]
 	#Whether the Sugar Rush changes the tick rate of the game in the area of affected players.
 	sugar_rush_slows_time = true
-
-[vanilla-changes]
-	#percent chance of bastion having a cave tablet for magnetic caves in its loot table:
-	#Range: 0.0 ~ 1.0
-	magnetic_tablet_loot_chance = 0.45
-	#percent chance of suspicious sand having a cave tablet for primordial caves in its loot table:
-	#Range: 0.0 ~ 1.0
-	primordial_tablet_loot_chance = 0.15
-	#percent chance of jungle temple having a cave tablet for toxic caves in its loot table:
-	#Range: 0.0 ~ 1.0
-	toxic_tablet_loot_chance = 0.5
-	#percent chance of underwater ruins having a cave tablet for abyssal chasm in its loot table:
-	#Range: 0.0 ~ 1.0
-	abyssal_tablet_loot_chance = 0.4
-	#percent chance of mansion having a cave tablet for forlorn hollows in its loot table:
-	#Range: 0.0 ~ 1.0
-	forlorn_tablet_loot_chance = 0.75
-	#percent chance of witch hut chest having a cave tablet for candy cavity in its loot table:
-	#Range: 0.0 ~ 1.0
-	candy_cavity_loot_chance = 0.9
-	#percent chance of abandoned mineshaft chests having a map to a nearby underground mineshaft in their loot table:
-	#Range: 0.0 ~ 1.0
-	cabin_map_loot_chance = 0.15
-	#Whether the Cartographer Villagers can sell maps to Underground Cabins.
-	cartographers_sell_cabin_maps = true
-	#Whether the Wandering Traders can sell maps to Underground Cabins.
-	wandering_traders_sell_cabin_maps = true
-	#Whether a loot chest is added to vanilla's witch huts. This is included to provide another place to find candy cavity biome cave tablets.
-	loot_chest_in_witch_huts = true
-	#Whether the Enchantments added by AC appear in vanilla loot tables.
-	enchantments_in_loot = false
 

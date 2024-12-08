@@ -1080,6 +1080,18 @@
     },
     "done": true
   },
+  "tetra:recipes/forged_mesh": {
+    "criteria": {
+      "got_mesh": "2024-12-08 06:12:22 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2024-12-08 06:13:37 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2024-12-08 04:13:17 +0000"
@@ -1092,9 +1104,33 @@
     },
     "done": false
   },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2024-12-08 06:08:18 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2024-12-08 06:08:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-08 04:38:43 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/containers": {
+    "criteria": {
+      "crate2": "2024-12-08 06:12:17 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_remove": {
+    "criteria": {
+      "module": "2024-12-08 06:13:52 +0000"
     },
     "done": true
   },
